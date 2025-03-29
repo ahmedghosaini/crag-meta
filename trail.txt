@@ -1,0 +1,1363 @@
+/home/ahmed.al-ghosaini/micromamba/envs/default/bin/python /home/ahmed.al-ghosaini/Workspace/meta_rag/local_evaluation.py
+You are using the default legacy behaviour of the <class 'transformers.models.llama.tokenization_llama_fast.LlamaTokenizerFast'>. This is expected, and simply means that the `legacy` (previous) behavior will be used so nothing changes for you. If you want to use the new behaviour, set `legacy=False`. This should only be set if you understand what it means, and thoroughly read the reason why this was added as explained in https://github.com/huggingface/transformers/pull/24565 - if you loaded a llama tokenizer from a GGUF file you can ignore this message.
+Generating Predictions: 0it [00:00, ?it/s]/home/ahmed.al-ghosaini/Workspace/meta_rag/src/models/ir/crossencoder.py:27: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with torch.no_grad(), torch.cuda.amp.autocast(dtype=torch.float16):
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+You are a helpful, respectful and honest question answering system. I will be providing you with questions, as well as some additional context that may be helpful in answering those questions. You will be provided with additional information between the "<DOCS>" tags. Keep your answers brief, ideally less than 20 words, but a strict limit of 30 words.
+
+If the provided information is insufficient for answering the question, simply output "Insuffient information" and only output that. If the question asserts a false premise, like "When did Eisenhower become Prime Minister?", simply output "Invalid question". Thus, if you are inclined to say something like "X never has" or "X never was" or "X never did", your output should be "Invalid question".
+
+Final reminder, with award shows, years can be tricky. Often awards are handed out the year after the project is made. Thus for the Oscars in 2015, the awards are being given out to movies made in 2014.<|eot_id|><|start_header_id|>user<|end_header_id|>
+# Example 1
+QUESTION: who was the first nba player to get a recorded triple double in basketball?
+<DOCS>
+<DOC>
+Andy Phillip got a triple-double versus the Fort Wayne Pistons on December 14, 1950.
+</DOC>
+</DOCS>
+ANSWER: andy phillip
+
+# Example 2
+QUESTION: what year did ronald reagan become kommissar in the soviet union?
+<DOCS>
+<DOC>
+Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989.
+</DOC>
+<DOC>
+Reagan's policies also helped contribute to the end of the Cold War and the end of Soviet communism.
+</DOC>
+</DOCS>
+ANSWER: invalid question
+
+# Example 3
+QUESTION: what are the total number of farms in nebraska?
+<DOCS>
+<DOC>
+There are many farms in Nebraska, some growing corn, while other growing sugar beats.
+</DOC>
+<DOC>
+Nebraska's largest industries are the argiculture and cattle production industries.
+</DOC>
+</DOCS>
+ANSWER: i don't know
+
+<DOCS>
+<DOC>
+Microsoft Office 2019 - Wikipedia
+Microsoft Office 2019 (second release codenamed Office 16) is a version of
+Microsoft Office for both Windows and Mac. It replaces Office 2016 and was
+replaced by Office 2021 on October 5, 2021.[8] It was unveiled on April 27,
+2018, for Windows 10 and June 12, 2018, for macOS, and launched on September
+24, 2018.[1] Some features that had previously been restricted to Office 365
+subscribers are available in this release.[9] Office 2019 retains the same
+major version number of 16 that Office 2016 had, making it the second
+perpetual release of Office 16. Microsoft ended mainstream support for Office
+2019 on October 10, 2023. Unlike other versions of Microsoft Office, Office
+2019 will only get two years of extended support, which means that support for
+Office 2019 will end on the same day as support for Office 2016 and Windows
+10, on October 14, 2025.[10]
+</DOC>
+<DOC>
+Office 2019 vs. Office 2016, Q&A: Licensing, Requirements, Benchmark, ...
+ru_project_professional_2019_x86_x64_dvd_d8a4bf9b.iso)
+For as long as only one language of Office is installed, it is possible to
+setup additional Office applications of the same language, regardless of which
+language is it.
+</DOC>
+<DOC>
+Microsoft Office 2019 - Wikipedia
+## Editions[edit]
+### Traditional editions[edit]
+Like its predecessor Microsoft Office 2016, Microsoft Office 2019 has the same
+perpetual SKU editions aimed towards different markets. Like its predecessor,
+Microsoft Office 2019 contains Word, Excel, PowerPoint and OneNote and is
+licensed for use on one computer.[18][19]
+</DOC>
+<DOC>
+Microsoft Office 2019 - Wikipedia
+Toggle the table of contents
+
+# Microsoft Office 2019
+
+21 languages
+
+  * العربية
+  * বাংলা
+  * Català
+  * Čeština
+  * Deutsch
+  * Ελληνικά
+  * Español
+  * فارسی
+  * Français
+  * 한국어
+  * Bahasa Indonesia
+  * Italiano
+  * עברית
+  * Polski
+  * Português
+  * Русский
+  * Simple English
+  * Türkçe
+  * Українська
+  * Tiếng Việt
+  * 中文
+
+Edit links
+</DOC>
+<DOC>
+Microsoft Office 2019 - Wikipedia
+* ^ "What languages is Office available in?". Microsoft. Archived from the original on April 7, 2019. Retrieved October 11, 2023.
+</DOC>
+<DOC>
+Microsoft Office 2019 - Wikipedia
+For Office 2013 and 2016, various editions containing the client apps were
+available in both Click-To-Run (inspired by Microsoft App-V) and traditional
+Windows Installer setup formats. However, Office 2019 client apps only have a
+Click-to-Run installer and only the server apps have the traditional MSI
+installer. The Click-To-Run version has a smaller footprint; in case of
+Microsoft Office 2019 Pro Plus, the product requires 10 GB less than the MSI
+version of Office 2016 Pro Plus.[22]
+</DOC>
+<DOC>
+Microsoft Office 2019 - Wikipedia
+Type| Office suite
+License| Trialware, software as a service
+Website| office.com
+Microsoft Office 2019 for MacDeveloper(s)| Microsoft  
+---|---  
+Initial release| September 24, 2018; 5 years ago (2018-09-24)  
+Operating system| macOS Sierra or later[6]  
+Platform| x64  
+Predecessor| Microsoft Office 2016  
+Successor| Microsoft Office 2021  
+Available in| 27 languages[7]  
+List of languagesEnglish, Arabic, Chinese (Simplified), Chinese (Traditional),
+Czech, Danish, Dutch, Finnish, French, German, Greek, Hebrew, Hungarian,
+Indonesian, Italian, Japanese, Korean, Norwegian (Bokmål), Polish, Portuguese
+(Portugal), Portuguese (Brazil), Russian, Slovak, Spanish, Swedish, Thai,
+Turkish
+</DOC>
+<DOC>
+Office 2019 vs. Office 2016, Q&A: Licensing, Requirements, Benchmark, ...
+Installing Office in Russian
+## Where Can Additional Office Languages Be Found?
+Additional languages can be downloaded directly from Microsoft for free from
+the following link. Currently Office 2010, 2013, 2016 and 2019 are supported:
+https://go.microsoft.com/fwlink/?LinkId=614981
+</DOC>
+<DOC>
+Office 2019 vs. Office 2016, Q&A: Licensing, Requirements, Benchmark, ...
+Downloading Additional Languages for Office Directly from Microsoft, for Free
+## Are Office 2016 & Office 2019 the same? What’s new in Office 2019?
+The licensing agreement is more limiting in Office 2019, and it is slower
+compared with Office 2016 and 2013. Office 2019 also requires Windows 10 1809,
+and cannot run on Windows 7, for example.
+</DOC>
+<DOC>
+Microsoft Office 2019 - Wikipedia
+Platform| IA-32, x64, ARM, Web
+Predecessor| Microsoft Office 2016 (2015)
+Successor| Microsoft Office 2021 (2021)
+Available in| 102 languages[5]
+List of languages
+
+  * Full (40): English, Arabic, Bulgarian, Chinese (Simplified), Chinese (Traditional), Croatian, Czech, Danish, Dutch, Estonian, Finnish, French, German, Greek, Hebrew, Hindi, Hungarian, Indonesian, Italian, Japanese, Kazakh, Korean, Latvian, Lithuanian, Malay (Latin), Norwegian Bokmål, Polish, Portuguese (Brazil), Portuguese (Portugal), Romanian, Russian, Serbian (Latin, Serbia), Slovak, Slovenian, Spanish, Swedish, Thai, Turkish, Ukrainian, Vietnamese
+  * Partial (51): Afrikaans, Albanian, Amharic, Armenian, Assamese, Azerbaijani (Latin), Bangla (Bangladesh), Bangla (Bengali India), Basque (Basque), Belarusian, Bosnian (Latin), Catalan, Dari, Filipino, Galician, Georgian, Gujarati, Icelandic, Irish, Kannada, Khmer, KiSwahili, Konkani, Kyrgyz, Luxembourgish, Macedonian (Republic of Macedonia), Malayalam, Maltese, Maori, Marathi, Mongolian (Cyrillic), Nepali, Norwegian Nynorsk, Odia, Persian (Farsi), Punjabi (Gurmukhi), Quechua, Scottish Gaelic, Serbian (Cyrillic, Bosnia & Herzegovina), Serbian (Cyrillic, Serbia), Sindhi (Arabic), Sinhala, Tamil, Tatar (Cyrillic), Telugu, Turkmen (Latin), Urdu, Uyghur, Uzbek (Latin), Valencian, Welsh
+  * Proofing only (11): Hausa, Igbo, isiXhosa, isiZulu, Kinyarwanda, Pashto, Romansh, Sesotho sa Leboa, Setswana, Wolof, Yoruba
+</DOC>
+</DOCS>
+QUESTION (asked at 02/28/2024, 10:04:54 PT): is microsoft office 2019 available in a greater number of languages than microsoft office 2013?<|eot_id|><|start_header_id|>assistant<|end_header_id|>ANSWERABLE:
+############ Query: is microsoft office 2019 available in a greater number of languages than microsoft office 2013?
+############ answer: yes
+############
+
+
+
+
+Generating Predictions: 1it [00:05,  5.46s/it]/home/ahmed.al-ghosaini/Workspace/meta_rag/src/models/ir/crossencoder.py:27: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with torch.no_grad(), torch.cuda.amp.autocast(dtype=torch.float16):
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+You are a helpful, respectful and honest question answering system. I will be providing you with questions, as well as some additional context that may be helpful in answering those questions. You will be provided with additional information between the "<DOCS>" tags. Keep your answers brief, ideally less than 20 words, but a strict limit of 30 words.
+
+If the provided information is insufficient for answering the question, simply output "Insuffient information" and only output that. If the question asserts a false premise, like "When did Eisenhower become Prime Minister?", simply output "Invalid question". Thus, if you are inclined to say something like "X never has" or "X never was" or "X never did", your output should be "Invalid question".
+
+Final reminder, with award shows, years can be tricky. Often awards are handed out the year after the project is made. Thus for the Oscars in 2015, the awards are being given out to movies made in 2014.<|eot_id|><|start_header_id|>user<|end_header_id|>
+# Example 1
+QUESTION: who was the first nba player to get a recorded triple double in basketball?
+<DOCS>
+<DOC>
+Andy Phillip got a triple-double versus the Fort Wayne Pistons on December 14, 1950.
+</DOC>
+</DOCS>
+ANSWER: andy phillip
+
+# Example 2
+QUESTION: what year did ronald reagan become kommissar in the soviet union?
+<DOCS>
+<DOC>
+Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989.
+</DOC>
+<DOC>
+Reagan's policies also helped contribute to the end of the Cold War and the end of Soviet communism.
+</DOC>
+</DOCS>
+ANSWER: invalid question
+
+# Example 3
+QUESTION: what are the total number of farms in nebraska?
+<DOCS>
+<DOC>
+There are many farms in Nebraska, some growing corn, while other growing sugar beats.
+</DOC>
+<DOC>
+Nebraska's largest industries are the argiculture and cattle production industries.
+</DOC>
+</DOCS>
+ANSWER: i don't know
+
+<DOCS>
+<DOC>
+Dow 30 Stocks List Today • Dogs of the Dow
+## Which Dow stock pays the highest dividend?
+
+Of the 30 Dow Jones Industrial Companies, IBM pays the highest dividend with
+an annual dividend yield of over 5%.
+</DOC>
+<DOC>
+Best Dow Jones Stocks To Watch In 2024
+The Dow Jones Industrial Average ended February at new highs, as the ongoing
+stock market rally continues. The best Dow Jones stocks to watch in 2024 are
+Apple (AAPL), Merck (MRK), Microsoft (MSFT) and Visa (V).
+</DOC>
+<DOC>
+Best Dow Jones Stocks To Watch In 2024
+
+* Research
+
+#  Today's Dow Jones Stocks To Watch: Apple Stock Dives On Slowing iPhone
+Sales
+
+Licensing
+
+  * SCOTT LEHTONEN
+  * 02:20 PM ET 03/05/2024
+</DOC>
+<DOC>
+Best Dow Jones Stocks To Watch In 2024
+## IBM Stock
+IBM shares are approaching a flat base's 196.90 buy point.
+The stock dipped 0.2% Tuesday.
+## Merck Stock
+Drug giant Merck is breaking out past a 119.65 cup-base buy point.
+Merck shares fell 1% Tuesday, back in the 5% buy area above the entry and
+pulling back to the 50-day line.
+</DOC>
+<DOC>
+Best Dow Jones Stocks To Watch In 2024
+The worst three Dow Jones stocks in 2023 were Walgreens Boots Alliance (WBA),
+Chevron (CVX) and Johnson & Johnson (JNJ), with respective declines of 30, 16%
+and 11%.
+</DOC>
+<DOC>
+Best Dow Jones Stocks To Watch In 2024
+On the downside, Intel (INTC) and Salesforce (CRM) were the biggest decliners,
+both sliding 5%.
+Amid the current stock market rally — according to the IBD Big Picture —
+investors should focus on stocks that show strong relative strength. These
+could again become 2024 market leaders if the Dow Jones Industrial Average is
+able to extend its recent gains.
+</DOC>
+<DOC>
+Best Dow Jones Stocks To Watch In 2024
+The best Dow Jones stocks to buy and watch in 2024 include Apple, IBM, Merck,
+Microsoft and Visa.
+Stock Market ETF Strategy And How To Invest
+## Dow Jones Leader: Apple Stock
+Among Dow Jones stocks in the Magnificent Seven, Apple stock lost 2.9% Tuesday
+on a report that showed slowing iPhone sales in China. The company sold 24%
+fewer iPhones in China in the first six weeks of 2024 than a year earlier,
+according to research firm Counterpoint Research.
+</DOC>
+<DOC>
+Best Dow Jones Stocks To Watch In 2024
+###### Source: IBD Data As Of Dec. 29, 2023
+## Today's Dow Jones Movers
+Inside the Dow Jones Industrial Average, Walmart (WMT) was one of Tuesday's
+biggest gainers, up 1.6%. Shares are extended past a cup-with-handle entry at
+54.47.
+</DOC>
+<DOC>
+Best Dow Jones Stocks To Watch In 2024
+X
+There are clear winners — and losers — at the start of February. The top three
+performing blue chip stocks in 2023 were Salesforce (CRM), Intel (INTC) and
+Microsoft, posting rallies of 98%, 90% and 56%, respectively.
+</DOC>
+<DOC>
+Top 30 Companies of Dow Jones Index by Weight in 2023
+## Best Dow Jones ETF
+Investing in an ETF (Exchange-Traded Fund) is another way to invest in the Dow
+Jones index. The best Dow Jones ETF in the market today is SPDR Dow Jones
+Industrial Average ETF (DIA). It is a non-leveraged ETF that copies the
+performance of the Dow and its stock allocation.
+</DOC>
+</DOCS>
+QUESTION (asked at 03/05/2024, 23:18:31 PT): what company in the dow jones is the best performer today?<|eot_id|><|start_header_id|>assistant<|end_header_id|>ANSWERABLE:
+############ Query: what company in the dow jones is the best performer today?
+############ answer: walmart
+############
+
+
+
+
+Generating Predictions: 2it [00:06,  2.96s/it]<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+You are a helpful, respectful and honest question answering system. I will be providing you with questions, as well as some additional context that may be helpful in answering those questions. You will be provided with additional information between the "<DOCS>" tags. Keep your answers brief, ideally less than 20 words, but a strict limit of 30 words.
+
+If the provided information is insufficient for answering the question, simply output "Insuffient information" and only output that. If the question asserts a false premise, like "When did Eisenhower become Prime Minister?", simply output "Invalid question". Thus, if you are inclined to say something like "X never has" or "X never was" or "X never did", your output should be "Invalid question".
+
+Final reminder, with award shows, years can be tricky. Often awards are handed out the year after the project is made. Thus for the Oscars in 2015, the awards are being given out to movies made in 2014.<|eot_id|><|start_header_id|>user<|end_header_id|>
+# Example 1
+QUESTION: who was the first nba player to get a recorded triple double in basketball?
+<DOCS>
+<DOC>
+Andy Phillip got a triple-double versus the Fort Wayne Pistons on December 14, 1950.
+</DOC>
+</DOCS>
+ANSWER: andy phillip
+
+# Example 2
+QUESTION: what year did ronald reagan become kommissar in the soviet union?
+<DOCS>
+<DOC>
+Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989.
+</DOC>
+<DOC>
+Reagan's policies also helped contribute to the end of the Cold War and the end of Soviet communism.
+</DOC>
+</DOCS>
+ANSWER: invalid question
+
+# Example 3
+QUESTION: what are the total number of farms in nebraska?
+<DOCS>
+<DOC>
+There are many farms in Nebraska, some growing corn, while other growing sugar beats.
+</DOC>
+<DOC>
+Nebraska's largest industries are the argiculture and cattle production industries.
+</DOC>
+</DOCS>
+ANSWER: i don't know
+
+<DOCS>
+<DOC>
+Shine like a diamond: 7 most successful celebrity beauty brands ...
+###
+
+Feud or no feud? Selena Gomez and Kylie Jenner’s top twinning fashion moments
+### 4\. Ariana Grande: R.E.M.
+Singer Ariana Grande launched her vegan make-up line R.E.M. in 2021. Photo:
+@r.e.m.beauty/Instagram
+In 2021, musician Ariana Grande expanded her reach with the launch of her
+vegan make-up line, R.E.M. The first collection included eyeliners, false
+lashes, highlighters and plumping gloss. R.E.M. was being sold in mega beauty
+store Ulta by April 2022, reports Seventeen. But the brand has suffered
+hiccups after the company Grande partnered with filed for bankruptcy.
+</DOC>
+<DOC>
+Shine like a diamond: 7 most successful celebrity beauty brands ...
+Gwyneth Paltrow owns a 30 per cent stake in Goop. Photo: Goop
+Paltrow regularly promotes her brand with skincare ideas and tips on how she
+gets her flawless skin, which end up going viral. Cosmopolitan reports the
+Iron Man actress owns a 30 per cent stake in Goop, which is worth an estimated
+US$250 million.
+</DOC>
+<DOC>
+Shine like a diamond: 7 most successful celebrity beauty brands ...
+###
+
+Inside the luxury lives of the Spencer sisters – Amelia, Eliza and Kitty
+### 2\. Kylie Jenner: Kylie Cosmetics
+Kylie Jenner showing off Kylie Cosmetics’ new Glow Balm and Gloss Drip. Photo:
+@kyliejenner/Instagram
+</DOC>
+<DOC>
+These Celebs Have Turned Their Love Of Makeup And Skincare Into ...
+
+1. Beauty
+  2. Skin
+  3. 40 Celebrities Who Started Their Own Successful Beauty Brands
+
+# 40 Celebrities Who Started Their Own Successful Beauty Brands
+
+Talk about a side hustle.
+
+By Georgia DavisPublished: May 6, 2020
+
+Save Article
+</DOC>
+<DOC>
+Shine like a diamond: 7 most successful celebrity beauty brands ...
+Advertisement
+Advertisement
+Advertisement
+Celebrities
+## 7 most successful celebrity beauty brands in the world, from Selena Gomez’
+Rare Beauty and Rihanna’s multimillion-dollar Fenty Beauty, to Kylie Jenner’s
+Kylie Cosmetics and Gwyneth Paltrow’s Goop
+</DOC>
+<DOC>
+Successful Celebrity Beauty Brands | Cosmetify
+### Rare Beauty
+Completing this top three list of the most successful celebrity beauty brands,
+with a score of 8.97 /10, is Selena Gomez’s brand, Rare Beauty. With a mission
+statement to ‘break down unrealistic standards of perfection’, Rare Beauty
+sets itself apart from other brands in the industry by placing a focus on the
+importance of mental health alongside the sale of their high-quality make-up
+products. As the only entry not to have been featured in our previous edition
+of the top three, Rare Beauty is arguably the most impressive on this list!
+</DOC>
+<DOC>
+Celebrity Beauty Brands Aren’t Guaranteed Money Makers Anymore
+In 2020, more than a third of Morphe Cosmetics revenue came from brands
+associated with celebrities and famous YouTube beauty influencers. The
+eyeshadow retailer severed ties with James Charles and Jeffree Star due to
+inappropriate online conduct. Attempts to shore up the bottom line with
+Grande’s r.e.m. beauty and other influencer collaborations ultimately proved
+futile when Forma filed for Chapter 11 bankruptcy on January 12.
+</DOC>
+<DOC>
+Shine like a diamond: 7 most successful celebrity beauty brands ...
+The company Ariana Grande partnered with filed for bankruptcy earlier this
+year and the future of R.E.M. remains unclear. Photo: @r.e.m.beauty/Instagram
+</DOC>
+<DOC>
+Shine like a diamond: 7 most successful celebrity beauty brands ...
+### 3\. Selena Gomez: Rare Beauty
+Selena Gomez started her own beauty brand Rare Beauty. Photo: Rare Beauty
+The power of the singer’s beauty brand focuses on “breaking down unrealistic
+standards of perfection”. Gomez has also highlighted the importance of mental
+health through her range, using uplifting statements on her products.
+</DOC>
+<DOC>
+Shine like a diamond: 7 most successful celebrity beauty brands ...
+STORYLynn Farah
+
+Apr 13 , 2023
+Celebrities that have their own successful beauty brands, from Selena Gomez
+and Rihanna to Gwyneth Paltrow. Photos: @rarebeauty, @fentybeauty,
+@goop/Instagram
+</DOC>
+</DOCS>
+QUESTION (asked at 03/13/2024, 08:29:31 PT): name three celebrities who have been involved in successful collaborations with beauty brands.<|eot_id|><|start_header_id|>assistant<|end_header_id|>ANSWERABLE:
+############ Query: name three celebrities who have been involved in successful collaborations with beauty brands.
+############ answer: ariana grande, selena gomez, kylie jenner
+############
+
+
+
+
+Generating Predictions: 3it [00:08,  2.26s/it]<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+You are a helpful, respectful and honest question answering system. I will be providing you with questions, as well as some additional context that may be helpful in answering those questions. You will be provided with additional information between the "<DOCS>" tags. Keep your answers brief, ideally less than 20 words, but a strict limit of 30 words.
+
+If the provided information is insufficient for answering the question, simply output "Insuffient information" and only output that. If the question asserts a false premise, like "When did Eisenhower become Prime Minister?", simply output "Invalid question". Thus, if you are inclined to say something like "X never has" or "X never was" or "X never did", your output should be "Invalid question".
+
+Final reminder, with award shows, years can be tricky. Often awards are handed out the year after the project is made. Thus for the Oscars in 2015, the awards are being given out to movies made in 2014.<|eot_id|><|start_header_id|>user<|end_header_id|>
+# Example 1
+QUESTION: who was the first nba player to get a recorded triple double in basketball?
+<DOCS>
+<DOC>
+Andy Phillip got a triple-double versus the Fort Wayne Pistons on December 14, 1950.
+</DOC>
+</DOCS>
+ANSWER: andy phillip
+
+# Example 2
+QUESTION: what year did ronald reagan become kommissar in the soviet union?
+<DOCS>
+<DOC>
+Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989.
+</DOC>
+<DOC>
+Reagan's policies also helped contribute to the end of the Cold War and the end of Soviet communism.
+</DOC>
+</DOCS>
+ANSWER: invalid question
+
+# Example 3
+QUESTION: what are the total number of farms in nebraska?
+<DOCS>
+<DOC>
+There are many farms in Nebraska, some growing corn, while other growing sugar beats.
+</DOC>
+<DOC>
+Nebraska's largest industries are the argiculture and cattle production industries.
+</DOC>
+</DOCS>
+ANSWER: i don't know
+
+<DOCS>
+<DOC>
+Heaven vs Hell - Difference and Comparison | Diffen
+#### Hell
+Muslims believe in jahannam (in Arabic: جهنم) (which comes from the Hebrew
+word gehennim and resembles the versions of Hell in Christianity). In the
+Qur'an, the holy book of Islam, there are literal descriptions of the
+condemned in a fiery Hell, as contrasted to the garden-like Paradise (jannah)
+enjoyed by righteous believers. In addition, Heaven and Hell are split into
+many different levels depending on the actions perpetrated in life, where
+punishment is given depending on the level of evil done in life, and good is
+separated into other levels depending on how well one followed God while
+alive. There is an equal number of mentions of both Hell and paradise in the
+Qur'an, which is considered by believers to be among the numeric miracles in
+the Qur'an.[citation needed] The Islamic concept of Hell is similar to the
+medieval Christian view of Dante. [citation needed] However, Satan is not
+viewed as Hell's ruler, merely one of its sufferers. The gate of Hell is
+guarded by Maalik also known as Zabaaniyah. The Quran states that the fuel of
+Hellfire is rocks/stones (idols) and human beings. Names of Hell according to
+Islamic Tradition based on the Quranic ayah and Hadith:
+</DOC>
+<DOC>
+Heaven and Hell | Cru
+As the template of continuity/discontinuity can keep us from
+overspiritualizing heaven, so we also want to be aware that Scripture uses
+symbolic language to describe the new heavens and new earth – language meant
+to convey concepts, not actual geography. Symbolism is shorthand for reality.
+When you see a symbol for a women’s room, you know what it means, but women
+don’t look like that graphic, do they?
+</DOC>
+<DOC>
+Heaven vs Hell - Difference and Comparison | Diffen
+#### Hell
+In Christianity, the popularly used word Hell, however, is a translation of
+three Greek words: hades, Gehenna, and Tartarus. Hades, literally meaning
+unseen, usually refers to the state of death, which is defined by some as a
+conscious waiting place for resurrection, and by others as a state of
+unconsciousness synonymous with death itself. Gehenna, on the other hand, more
+ambiguous than hades, seems to refer to judgment and fits more closely with
+the modern conceptions of Hell. Tartarus is used in reference to the judgment
+of sinning angels and seems to be an allusion to Greek mythology (see
+Tartarus). While the majority of Christianity views Hell as a place of eternal
+torment, some Christians, such as Universalist Christians (see Universalism)
+contend that after resurrection, unrepentant sinners are judged and purified
+in the lake of fire and then later accepted into Heaven, while others believe
+that after resurrection, the unrepentant sinners are permanently destroyed in
+the lake of fire (see annihilationism). Various interpretations of the
+torments of Hell exist, ranging from fiery pits of wailing sinners to lonely
+isolation from God's presence. However, the descriptions of Hell found in the
+Bible are quite vague. The books of Matthew, Mark, and Jude tell of a place of
+fire, while the books of Luke and Revelation report it as an abyss. Our
+modern, more graphic, images of Hell have developed from writings that are not
+found in the Bible. Dante's The Divine Comedy is a classic inspiration for
+modern images of Hell. Other early Christian writings also illustrate the
+anguish of Hell. Most Christians believe that damnation occurs immediately
+upon death (particular judgment), and others that it occurs after Judgment
+Day, which is written about in the book of Revelation.
+</DOC>
+<DOC>
+Heaven vs Hell - Difference and Comparison | Diffen
+endtoc
+## Definition
+### Heaven
+Originally the term "heaven" referred to the sky or the area above the earth
+where the "heavenly bodies" are placed. This is the main meaning of the word
+in the Bible. It was considered the dwelling place of God and his angels.
+However, with time, the term came to be used also in the sense of the abode of
+the righteous at some point after death. This is supported by a few verses in
+the Bible, but the Bible tends to use other terms, such as Paradise, for this.
+(See below for other terms.)
+</DOC>
+</DOCS>
+QUESTION (asked at 03/19/2024, 23:28:32 PT): what is the other language between heaven and hell came out in originally?<|eot_id|><|start_header_id|>assistant<|end_header_id|>ANSWERABLE:
+############ Query: what is the other language between heaven and hell came out in originally?
+############ answer: arabic and greek
+############
+
+
+
+
+Generating Predictions: 4it [00:09,  1.80s/it]<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+You are a helpful, respectful and honest question answering system. I will be providing you with questions, as well as some additional context that may be helpful in answering those questions. You will be provided with additional information between the "<DOCS>" tags. Keep your answers brief, ideally less than 20 words, but a strict limit of 30 words.
+
+If the provided information is insufficient for answering the question, simply output "Insuffient information" and only output that. If the question asserts a false premise, like "When did Eisenhower become Prime Minister?", simply output "Invalid question". Thus, if you are inclined to say something like "X never has" or "X never was" or "X never did", your output should be "Invalid question".
+
+Final reminder, with award shows, years can be tricky. Often awards are handed out the year after the project is made. Thus for the Oscars in 2015, the awards are being given out to movies made in 2014.<|eot_id|><|start_header_id|>user<|end_header_id|>
+# Example 1
+QUESTION: who was the first nba player to get a recorded triple double in basketball?
+<DOCS>
+<DOC>
+Andy Phillip got a triple-double versus the Fort Wayne Pistons on December 14, 1950.
+</DOC>
+</DOCS>
+ANSWER: andy phillip
+
+# Example 2
+QUESTION: what year did ronald reagan become kommissar in the soviet union?
+<DOCS>
+<DOC>
+Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989.
+</DOC>
+<DOC>
+Reagan's policies also helped contribute to the end of the Cold War and the end of Soviet communism.
+</DOC>
+</DOCS>
+ANSWER: invalid question
+
+# Example 3
+QUESTION: what are the total number of farms in nebraska?
+<DOCS>
+<DOC>
+There are many farms in Nebraska, some growing corn, while other growing sugar beats.
+</DOC>
+<DOC>
+Nebraska's largest industries are the argiculture and cattle production industries.
+</DOC>
+</DOCS>
+ANSWER: i don't know
+
+<DOCS>
+<DOC>
+Rory McIlroy's majors timeline: Breaking down golfer's last major ...
+U.S. OPEN 2022: Why Justin Thomas, Rory McIlroy are among best bets to win
+## Has Rory McIlroy won the U.S. Open?
+McIlroy has won the U.S. Open. In fact, it was the first major he won during
+his career.
+McIlroy, then 22, won the U.S. Open in 2011 at Congressional Golf Club in
+Bethesda, Md. He ran away with the event, carding a 16-under for the
+tournament and winning by eight strokes. He led the tournament from wire to
+wire thanks to the 6-under 65 he posted in Round 1 of the tournament.
+</DOC>
+<DOC>
+Rory McIlroy's majors timeline: Breaking down golfer's last major ...
+McIlroy has been in contention at plenty of major tournaments, but he hasn't
+won one since 2014. He is looking to change that at the 2023 U.S. Open and
+enters the final day of the tournament one stroke off the lad.
+</DOC>
+<DOC>
+Career | Rory McIlroy
+##  2023
+
+### Rory wins the DP World Tour title for a fifth time.
+
+Explore
+
+Close
+
+Rory wins the DP World Tour title for a fifth time.
+
+* * *
+
+I think winning shows my consistency year-to-year. Over the last 10 years, I
+think I've won eight season-long titles between America and between here, so
+it just shows my level of consistency.
+
+* * *
+
+Rory McIlroy
+</DOC>
+<DOC>
+Rory McIlroy's majors timeline: Breaking down golfer's last major ...
+That campaign is rivaled only by his 2022 major appearances. He finished
+top-10 in each of the four tournaments finishing second at the Masters, eighth
+at the PGA Championship, tied for fifth at the U.S. Open and third at The Open
+Championship.
+</DOC>
+<DOC>
+Career | Rory McIlroy
+HTML
+
+
+#
+
+  * Rory
+  * Career
+  * Schedule
+  * Partners
+  * Rory Foundation
+AJAX
+# Career
+## 2024
+##  2024
+
+### Rory wins his fourth Hero Dubai Desert Classic.
+
+Explore
+
+Close
+
+Rory wins the tournament for the 4th time.
+
+* * *
+
+I’ve never lost the hunger to go out and play better, but I’ve also never lost
+the joy of the game.
+
+* * *
+
+Rory McIlroy
+</DOC>
+<DOC>
+Rory McIlroy's majors timeline: Breaking down golfer's last major ...
+McIlroy won his first major in 2011 at the U.S. Open. He ran away with the
+tournament, winning by eight strokes. He and Robert Garrigus became the fifth
+and sixth players to shoot under par in all four rounds in a single U.S. Open
+championship.
+</DOC>
+<DOC>
+Rory McIlroy's majors timeline: Breaking down golfer's last major ...
+All told, McIlroy has participated in 57 majors during his career. He has
+logged 28 top-10 finishes in those events: eight at the PGA Championship,
+seven at the U.S. Open, seven at the Masters and six at the British Open.
+</DOC>
+<DOC>
+Rory McIlroy's majors timeline: Breaking down golfer's last major ...
+U.S. OPEN 2022: Tee times, pairings for first two days of major tournament
+## What major has Rory McIlroy not won?
+McIlroy has yet to win the Masters, though he has come close on several
+occasions. He finished second in 2022, with Scottie Scheffler denying the
+Northern Irishman the career Grand Slam.
+</DOC>
+<DOC>
+Rory McIlroy's majors timeline: Breaking down golfer's last major ...
+MORE: Where Rory McIlroy ranks among golfers in the 2022 U.S. Open field
+## How many majors has Rory McIlroy won?
+McIlroy has won four major tournaments. They are as follows:
+* U.S. Open
+  * PGA Championship (twice)
+  * British Open
+## When was the last time Rory McIlroy won a major?
+McIlroy hasn't won a major championship in just about eight years. He emerged
+victoriously at the PGA Championship in 2014, at Valhalla Golf Club in
+Louisville, Ky.
+</DOC>
+<DOC>
+Rory McIlroy's majors timeline: Breaking down golfer's last major ...
+McIlroy's best tournaments overall are the PGA Championship and the Masters.
+He has missed the cut a combined four times at those events and has won the
+PGA Championship twice. His best major season was in 2014, when he won the PGA
+and the British Open, finished tied for eighth at the Masters and tied for
+23rd at the U.S. Open.
+</DOC>
+</DOCS>
+QUESTION (asked at 03/13/2024, 09:30:59 PT): how many times has rory mcilroy won the masters tournament?<|eot_id|><|start_header_id|>assistant<|end_header_id|>ANSWERABLE:
+############ Query: how many times has rory mcilroy won the masters tournament?
+############ answer: rory mcilroy has not won the masters tournament
+############
+
+
+
+
+Generating Predictions: 5it [00:10,  1.55s/it]<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+You are a helpful, respectful and honest question answering system. I will be providing you with questions, as well as some additional context that may be helpful in answering those questions. You will be provided with additional information between the "<DOCS>" tags. Keep your answers brief, ideally less than 20 words, but a strict limit of 30 words.
+
+If the provided information is insufficient for answering the question, simply output "Insuffient information" and only output that. If the question asserts a false premise, like "When did Eisenhower become Prime Minister?", simply output "Invalid question". Thus, if you are inclined to say something like "X never has" or "X never was" or "X never did", your output should be "Invalid question".
+
+Final reminder, with award shows, years can be tricky. Often awards are handed out the year after the project is made. Thus for the Oscars in 2015, the awards are being given out to movies made in 2014.<|eot_id|><|start_header_id|>user<|end_header_id|>
+# Example 1
+QUESTION: who was the first nba player to get a recorded triple double in basketball?
+<DOCS>
+<DOC>
+Andy Phillip got a triple-double versus the Fort Wayne Pistons on December 14, 1950.
+</DOC>
+</DOCS>
+ANSWER: andy phillip
+
+# Example 2
+QUESTION: what year did ronald reagan become kommissar in the soviet union?
+<DOCS>
+<DOC>
+Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989.
+</DOC>
+<DOC>
+Reagan's policies also helped contribute to the end of the Cold War and the end of Soviet communism.
+</DOC>
+</DOCS>
+ANSWER: invalid question
+
+# Example 3
+QUESTION: what are the total number of farms in nebraska?
+<DOCS>
+<DOC>
+There are many farms in Nebraska, some growing corn, while other growing sugar beats.
+</DOC>
+<DOC>
+Nebraska's largest industries are the argiculture and cattle production industries.
+</DOC>
+</DOCS>
+ANSWER: i don't know
+
+<DOCS>
+<DOC>
+2024 High Dividend Stocks List | Highest Yields Up To 27.7%
+### High Dividend Stock #7: Western Union (WU)
+* Dividend Yield: 6.8%
+  * Dividend Risk Score: C
+The Western Union Company is the world leader in the business of domestic and
+international money transfers. The company has a network of approximately
+550,000 agents globally and operates in more than 200 countries. About 90% of
+agents are outside of the US. Western Union operates two business segments,
+Consumer-to-Consumer (C2C) and Other (bill payments in the US and Argentina).
+</DOC>
+<DOC>
+9 Highest Dividend-Paying Stocks in the S&P 500 | Investing | U.S. ...
+## Altria Group Inc. (MO)
+* Market value: $72 billion
+  * Dividend yield: 9.6%
+Altria is a popular dividend stock that has been atop the list of the highest-
+paying S&P 500 dividend stocks for a while. That's because of its consistent
+and reliable yield and a great track record of increases in its payouts.
+Specifically, the stock has logged 55 consecutive years of dividend increases
+– longer than many other dividend stocks have even been in operation.  
+Of course, growth is challenged for this tobacco giant that produces Marlboro
+cigarettes, Black & Mild pipe and cigar products, and smokeless tobacco like
+Copenhagen and Skoal. But it has stable operations and dominates the U.S.
+market for those who are looking for a nicotine fix. If you want to trade
+growth potential for income potential, MO may be a stock that fits the bill.
+</DOC>
+<DOC>
+2024 High Dividend Stocks List | Highest Yields Up To 27.7%
+### High Dividend Stock #2: MPLX LP (MPLX)
+* Dividend Yield: 8.6%
+  * Dividend Risk Score: C
+MPLX LP is a Master Limited Partnership that was formed by the Marathon
+Petroleum Corporation (MPC) in 2012. In 2019, MPLX acquired Andeavor Logistics
+LP.
+</DOC>
+<DOC>
+9 Highest Dividend-Paying Stocks in the S&P 500 | Investing | U.S. ...
+## Pfizer Inc. (PFE)
+* Market value: $152 billion
+  * Dividend yield: 6.3%
+A relative newcomer to the lineup of top S&P 500 dividend stocks, Pfizer is a
+classic case of a company that has become a yield monster lately for all the
+wrong reasons. Yes, it has a long tradition of sharing the wealth with
+shareholders, with its first-quarter payday marking the 341st consecutive
+quarterly dividend paid by Pfizer – a track record that spans more than 85
+years.
+</DOC>
+<DOC>
+2024 High Dividend Stocks List | Highest Yields Up To 27.7%
+A company with a payout ratio over 100% is paying out more in dividends than
+it is making in profits, a long-term unsustainable situation. A company with a
+payout ratio of 50% is making double in income what it is paying out in
+dividends, so it has ‘room’ for earnings to decline significantly without
+reducing its dividend.
+</DOC>
+<DOC>
+2024 High Dividend Stocks List | Highest Yields Up To 27.7%
+Altria has increased its dividend for over 50 years, placing it on the
+exclusive Dividend Kings list. This is a rare business longevity achievement
+that speaks to the staying power of the company’s brands, even with the
+gradual decline in smoking in the U.S.
+</DOC>
+<DOC>
+2024 High Dividend Stocks List | Highest Yields Up To 27.7%
+Click on a company’s name to view the high dividend 50 series article for that
+company. A link to the specific Sure Analysis Research Database report page
+for each security is included as well.
+</DOC>
+<DOC>
+2024 High Dividend Stocks List | Highest Yields Up To 27.7%
+* High Dividend Stock #7: Western Union (WU)
+  * High Dividend Stock #6: Lincoln National Corp. (LNC)
+  * High Dividend Stock #5: Universal Health Realty Income Trust (UHT)
+  * High Dividend Stock #4: Enterprise Products Partners (EPD)
+  * High Dividend Stock #3: First of Long Island Corp. (FLIC)
+  * High Dividend Stock #2: MPLX LP (MPLX)
+  * High Dividend Stock #1: Altria Group (MO)
+</DOC>
+<DOC>
+2024 High Dividend Stocks List | Highest Yields Up To 27.7%
+### High Dividend Stock #1: Altria Group (MO)
+* Dividend Yield: 9.6%
+  * Dividend Risk Score: B
+Altria Group was founded by Philip Morris in 1847. Today, it is a consumer
+staples giant. It sells the Marlboro cigarette brand in the U.S. and a number
+of other non-smokeable brands, including Skoal and Copenhagen.
+</DOC>
+<DOC>
+High Dividend Stocks You Can Count On | Investor's Business Daily
+You might think no stocks can clear all these hurdles. Actually, eight did.
+## High Dividend Yield Winner: Rio Tinto
+When you've narrowed down the list of high-dividend stocks this much, it's OK
+to look for the top dividend yields. That title goes to Rio Tinto. Based in
+London, Rio Tinto mines and processes materials ranging from aluminum to
+copper and diamonds. And it yields a lucrative 9.7%. Additionally, the
+company's yield is up more than 34% over the past five years.
+</DOC>
+</DOCS>
+QUESTION (asked at 03/13/2024, 08:56:12 PT): which companies have the highest level of dividend yield?<|eot_id|><|start_header_id|>assistant<|end_header_id|>ANSWERABLE:
+############ Query: which companies have the highest level of dividend yield?
+############ answer: Altria Group and Rio Tinto have the highest dividend yields at 9.6% and 9.7% respectively.
+############
+
+
+
+
+Generating Predictions: 6it [00:12,  1.86s/it]<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+You are a helpful, respectful and honest question answering system. I will be providing you with questions, as well as some additional context that may be helpful in answering those questions. You will be provided with additional information between the "<DOCS>" tags. Keep your answers brief, ideally less than 20 words, but a strict limit of 30 words.
+
+If the provided information is insufficient for answering the question, simply output "Insuffient information" and only output that. If the question asserts a false premise, like "When did Eisenhower become Prime Minister?", simply output "Invalid question". Thus, if you are inclined to say something like "X never has" or "X never was" or "X never did", your output should be "Invalid question".
+
+Final reminder, with award shows, years can be tricky. Often awards are handed out the year after the project is made. Thus for the Oscars in 2015, the awards are being given out to movies made in 2014.<|eot_id|><|start_header_id|>user<|end_header_id|>
+# Example 1
+QUESTION: who was the first nba player to get a recorded triple double in basketball?
+<DOCS>
+<DOC>
+Andy Phillip got a triple-double versus the Fort Wayne Pistons on December 14, 1950.
+</DOC>
+</DOCS>
+ANSWER: andy phillip
+
+# Example 2
+QUESTION: what year did ronald reagan become kommissar in the soviet union?
+<DOCS>
+<DOC>
+Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989.
+</DOC>
+<DOC>
+Reagan's policies also helped contribute to the end of the Cold War and the end of Soviet communism.
+</DOC>
+</DOCS>
+ANSWER: invalid question
+
+# Example 3
+QUESTION: what are the total number of farms in nebraska?
+<DOCS>
+<DOC>
+There are many farms in Nebraska, some growing corn, while other growing sugar beats.
+</DOC>
+<DOC>
+Nebraska's largest industries are the argiculture and cattle production industries.
+</DOC>
+</DOCS>
+ANSWER: i don't know
+
+<DOCS>
+
+</DOCS>
+QUESTION (asked at 02/26/2024, 23:52:36 PT): what is the shortest highway in the us in feet?<|eot_id|><|start_header_id|>assistant<|end_header_id|>ANSWERABLE:
+############ Query: what is the shortest highway in the us in feet?
+############ answer: Insufficient information
+############
+
+
+
+
+Generating Predictions: 7it [00:13,  1.49s/it]<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+You are a helpful, respectful and honest question answering system. I will be providing you with questions, as well as some additional context that may be helpful in answering those questions. You will be provided with additional information between the "<DOCS>" tags. Keep your answers brief, ideally less than 20 words, but a strict limit of 30 words.
+
+If the provided information is insufficient for answering the question, simply output "Insuffient information" and only output that. If the question asserts a false premise, like "When did Eisenhower become Prime Minister?", simply output "Invalid question". Thus, if you are inclined to say something like "X never has" or "X never was" or "X never did", your output should be "Invalid question".
+
+Final reminder, with award shows, years can be tricky. Often awards are handed out the year after the project is made. Thus for the Oscars in 2015, the awards are being given out to movies made in 2014.<|eot_id|><|start_header_id|>user<|end_header_id|>
+# Example 1
+QUESTION: who was the first nba player to get a recorded triple double in basketball?
+<DOCS>
+<DOC>
+Andy Phillip got a triple-double versus the Fort Wayne Pistons on December 14, 1950.
+</DOC>
+</DOCS>
+ANSWER: andy phillip
+
+# Example 2
+QUESTION: what year did ronald reagan become kommissar in the soviet union?
+<DOCS>
+<DOC>
+Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989.
+</DOC>
+<DOC>
+Reagan's policies also helped contribute to the end of the Cold War and the end of Soviet communism.
+</DOC>
+</DOCS>
+ANSWER: invalid question
+
+# Example 3
+QUESTION: what are the total number of farms in nebraska?
+<DOCS>
+<DOC>
+There are many farms in Nebraska, some growing corn, while other growing sugar beats.
+</DOC>
+<DOC>
+Nebraska's largest industries are the argiculture and cattle production industries.
+</DOC>
+</DOCS>
+ANSWER: i don't know
+
+<DOCS>
+<DOC>
+Biggest Companies in the World by Market Cap
+Companies are ranked as per TradingView's list of largest companies by market
+cap. All figures, which are also taken from TradingView, are current as of
+Jan. 20, 2024.
+</DOC>
+<DOC>
+Biggest Companies in the World by Market Cap
+Saudi Arabian Oil, better known as Saudi Aramco, is a Saudi Arabia-based
+integrated oil and gas company. The company was founded as Standard Oil's
+overseas operations and is now owned by the Saudi government.
+</DOC>
+<DOC>
+Biggest Companies in the World by Market Cap
+Tesla (TSLA) is a leading manufacturer of electric vehicles, which include the
+following models:
+* Model 3, a four-door, mid-size sedan designed and priced for mass-market appeal
+  * Model Y, a compact sport utility vehicle (SUV) that seats seven adults
+  * Model S, a four-door, full-size sedan
+  * Model X, a mid-size SUV with seating for up to seven adults
+</DOC>
+<DOC>
+Biggest Companies in the World by Market Cap
+Table of Contents
+
+Expand
+
+Table of Contents
+
+  * 1\. Microsoft
+
+  * 2\. Apple
+
+  * 3\. Saudi Aramco
+
+  * 4\. Alphabet
+
+  * 5\. Amazon
+
+  * 6\. NVIDIA
+
+  * 7\. Meta
+
+  * 8\. Berkshire Hathaway
+
+  * 9\. Tesla
+
+  * 10\. Eli Lilly
+
+  * FAQs
+
+  * The Bottom Line
+</DOC>
+<DOC>
+Biggest Companies in the World by Market Cap
+Berkshire Hathaway (BRK.A/BRK.B) began with the merger of two regional textile
+companies in the 19th century. Only much later was it purchased by legendary
+investor Warren Buffett and converted into a conglomerate holding company.
+</DOC>
+<DOC>
+The Largest Companies by Market Cap in 2024 | The Motley Fool
+## Companies 16-20
+
+## 17\. Walmart
+* Market cap: $444.89 billion (as of Feb. 1)
+  * Revenue (TTM): $638.79 billion
+  * Gross profit (TTM): $155.05 billion
+  * Five-year annualized return: 11.98%
+  * Year founded: 1962
+
+Walmart (NYSE:WMT) may not have the largest market cap, but it is No. 1 in
+terms of revenue, and it’s the largest retailer in the world. With more than
+$600 billion in annual revenue, it earns more than most of the other companies
+on this list by a wide margin.
+
+## 18\. Mastercard
+</DOC>
+<DOC>
+The Largest Companies by Market Cap in 2024 | The Motley Fool
+* Log In
+* Help
+* Join The Motley Fool
+Top 10 Stocks
+Research  > Largest Companies By Market Cap
+
+# The Largest Companies by Market Cap in 2024
+
+## Microsoft, Apple, and Saudi Aramco are the biggest companies measured by
+market cap.
+
+By Lyle Daly – Updated Feb 2, 2024 at 11:24AM
+</DOC>
+<DOC>
+Biggest Companies in the World by Market Cap
+Berkshire Hathaway today owns a large number of subsidiaries engaged in
+insurance, freight rail transportation, retailing, and utility and energy
+generation and distribution. The company also operates manufacturing
+businesses that make products for industrial uses, construction, and for
+consumers.
+</DOC>
+<DOC>
+Biggest Companies in the World by Market Cap
+The company offers products and platforms comprised of hardware, software,
+services, and more to serve the gaming, professional visualization, data
+center, and automotive markets. Nvidia GPUs have also featured prominently in
+cryptocurrency mining.
+</DOC>
+<DOC>
+The Largest Companies by Market Cap in 2024 | The Motley Fool
+After a strong start to 2024, Microsoft (NASDAQ:MSFT) is the most valuable
+company in the world. It passed longtime rival Apple (NASDAQ:AAPL) in January,
+when it also became just the second company to reach a market capitalization
+of $3 million. Seven of the largest companies have a market cap of at least $1
+trillion.
+</DOC>
+</DOCS>
+QUESTION (asked at 02/28/2024, 08:35:24 PT): which company have larger market cap, plya or seatw?<|eot_id|><|start_header_id|>assistant<|end_header_id|>ANSWERABLE:
+############ Query: which company have larger market cap, plya or seatw?
+############ answer: insufficient information
+############
+
+
+
+
+Generating Predictions: 8it [00:15,  1.59s/it]<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+You are a helpful, respectful and honest question answering system. I will be providing you with questions, as well as some additional context that may be helpful in answering those questions. You will be provided with additional information between the "<DOCS>" tags. Keep your answers brief, ideally less than 20 words, but a strict limit of 30 words.
+
+If the provided information is insufficient for answering the question, simply output "Insuffient information" and only output that. If the question asserts a false premise, like "When did Eisenhower become Prime Minister?", simply output "Invalid question". Thus, if you are inclined to say something like "X never has" or "X never was" or "X never did", your output should be "Invalid question".
+
+Final reminder, with award shows, years can be tricky. Often awards are handed out the year after the project is made. Thus for the Oscars in 2015, the awards are being given out to movies made in 2014.<|eot_id|><|start_header_id|>user<|end_header_id|>
+# Example 1
+QUESTION: who was the first nba player to get a recorded triple double in basketball?
+<DOCS>
+<DOC>
+Andy Phillip got a triple-double versus the Fort Wayne Pistons on December 14, 1950.
+</DOC>
+</DOCS>
+ANSWER: andy phillip
+
+# Example 2
+QUESTION: what year did ronald reagan become kommissar in the soviet union?
+<DOCS>
+<DOC>
+Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989.
+</DOC>
+<DOC>
+Reagan's policies also helped contribute to the end of the Cold War and the end of Soviet communism.
+</DOC>
+</DOCS>
+ANSWER: invalid question
+
+# Example 3
+QUESTION: what are the total number of farms in nebraska?
+<DOCS>
+<DOC>
+There are many farms in Nebraska, some growing corn, while other growing sugar beats.
+</DOC>
+<DOC>
+Nebraska's largest industries are the argiculture and cattle production industries.
+</DOC>
+</DOCS>
+ANSWER: i don't know
+
+<DOCS>
+<DOC>
+10 Actors Who Have Played A Comic Book Character In Both Live-Action ...
+##  Donald Glover
+Before Andrew Garfield's casting, a viral Twitter campaign suggested Donald
+Glover as the new incarnation of the friendly neighborhood. Glover didn't
+audition, but Miles Morales' creator, Brian Michael Bendis, did credit Glover
+with influencing the character's look after his Community character, Troy
+Barnes, appeared wearing a Spider-Man pajama.
+</DOC>
+<DOC>
+10 Actors Who Have Played A Comic Book Character In Both Live-Action ...
+Simmons would've played Commissioner Gordon in Ben Affleck's unrealized Batman
+movie. He returned to the role of Jameson for a small cameo at the end of
+2019's Spider-Man: Far from Home, and in 2020 began voicing Omni-Man in
+Amazon's animated series Invincible.
+</DOC>
+<DOC>
+10 Actors Who Have Played A Comic Book Character In Both Live-Action ...
+Not injecting Ads due to No-Ads mode.
+##  J.K. Simmons
+Academy Award winner J.K. Simmons rose to prominence with roles in Law and
+Order and Oz. In 2002, he began playing the role of J. Jonah Jameson in Sam
+Raimi's trilogy of Spider-Man films, which elevated his profile further. In
+2015, he won the Oscar for his supporting performance in Damien Chazelle's
+Whiplash.
+</DOC>
+<DOC>
+10 Actors Who Have Played A Comic Book Character In Both Live-Action ...
+Pine also had a small role in Into the Spiderverse, voicing the original Peter
+Parker in Miles' dimension. The character appears only at the beginning of the
+film, and Pine only speaks a few lines.
+</DOC>
+<DOC>
+10 Actors Who Have Played A Comic Book Character In Both Live-Action ...
+##  Mark Hamill
+Mark Hamill is a true legend when it comes to comic book characters. Known
+worldwide for his portrayal of Luke Skywalker in the Star Wars franchise,
+Hamill is also notorious for voicing the Joker in multiple projects across
+numerous forms of media.
+</DOC>
+<DOC>
+10 Actors Who Have Played A Comic Book Character In Both Live-Action ...
+##  Chris Pine
+After making his big-screen debut in The Princess Diaries 2: Royal Engagement,
+Chris Pine's profile rose to leading man status. He played James T. Kirk in
+the Star Trek reboot films and took on the role of Steve Trevor in 2017's
+Wonder Woman and its sequel, Wonder Woman 1984.
+</DOC>
+<DOC>
+10 Actors Who Have Played A Comic Book Character In Both Live-Action ...
+##  Michael Cera
+After rising to stardom in the 2007 comedy Superbad, Michael Cera's career
+took off. He starred in movies like Year One and the Oscar-nominated Juno
+before taking on the role of Scott Pilgrim in 2010's Scott Pilgrim vs. the
+World, based on the comic book of the same name.
+</DOC>
+<DOC>
+10 Actors Who Have Played A Comic Book Character In Both Live-Action ...
+In 2021, Yeun received his first Oscar nomination for his leading role in Lee
+Isaac Chung's Minari. He'll return as Invincible's voice for the show's
+recently announced second season.
+</DOC>
+<DOC>
+10 Actors Who Have Played A Comic Book Character In Both Live-Action ...
+The actor also played James Jesse, AKA The Trickster, in the 90s TV series The
+Flash. He reprised the role in The CW show, The Flash, fourteen years after
+first playing him.
+</DOC>
+<DOC>
+10 Actors Who Have Played A Comic Book Character In Both Live-Action ...
+##  Mahershala Ali
+Two-time Oscar winner Mahershala Ali had a stratospheric rise to stardom in
+the second half of the 2010s. He won his first Oscar for his performance in
+2016's Moonlight. In 2018, he voiced Aaron Davis, AKA, Prowler in the
+critically acclaimed, Oscar-winning movie Spider-Man: Into the Spiderverse,
+and won his second Oscar for Green Book.
+</DOC>
+</DOCS>
+QUESTION (asked at 03/13/2024, 10:39:22 PT): who was the first actor to play the role of a comic book villain in a live-action movie?<|eot_id|><|start_header_id|>assistant<|end_header_id|>ANSWERABLE:
+############ Query: who was the first actor to play the role of a comic book villain in a live-action movie?
+############ answer: Insufficient information
+############
+
+
+
+
+Generating Predictions: 9it [00:16,  1.36s/it]<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+You are a helpful, respectful and honest question answering system. I will be providing you with questions, as well as some additional context that may be helpful in answering those questions. You will be provided with additional information between the "<DOCS>" tags. Keep your answers brief, ideally less than 20 words, but a strict limit of 30 words.
+
+If the provided information is insufficient for answering the question, simply output "Insuffient information" and only output that. If the question asserts a false premise, like "When did Eisenhower become Prime Minister?", simply output "Invalid question". Thus, if you are inclined to say something like "X never has" or "X never was" or "X never did", your output should be "Invalid question".
+
+Final reminder, with award shows, years can be tricky. Often awards are handed out the year after the project is made. Thus for the Oscars in 2015, the awards are being given out to movies made in 2014.<|eot_id|><|start_header_id|>user<|end_header_id|>
+# Example 1
+QUESTION: who was the first nba player to get a recorded triple double in basketball?
+<DOCS>
+<DOC>
+Andy Phillip got a triple-double versus the Fort Wayne Pistons on December 14, 1950.
+</DOC>
+</DOCS>
+ANSWER: andy phillip
+
+# Example 2
+QUESTION: what year did ronald reagan become kommissar in the soviet union?
+<DOCS>
+<DOC>
+Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989.
+</DOC>
+<DOC>
+Reagan's policies also helped contribute to the end of the Cold War and the end of Soviet communism.
+</DOC>
+</DOCS>
+ANSWER: invalid question
+
+# Example 3
+QUESTION: what are the total number of farms in nebraska?
+<DOCS>
+<DOC>
+There are many farms in Nebraska, some growing corn, while other growing sugar beats.
+</DOC>
+<DOC>
+Nebraska's largest industries are the argiculture and cattle production industries.
+</DOC>
+</DOCS>
+ANSWER: i don't know
+
+<DOCS>
+<DOC>
+DreamWorks Pictures | Dreamworks Animation Wiki | Fandom
+United International Pictures (a joint venture of Paramount and Universal)
+formerly distributed most DreamWorks' films internationally.
+</DOC>
+<DOC>
+Universal Pictures | Dreamworks Animation Wiki | Fandom
+Universal itself was the film (outside of America) and video distributor for
+DreamWorks live-action titles and DWA titles (Back when DreamWorks Animation
+was a division of DW before it was spun off in 2004), DreamWorks' theatrical
+films from 1998-2006 in American however were distributed by Universal, but
+through their then DreamWorks Pictures label. DreamWorks was then sold to
+Paramount Pictures in 2006, at which point Paramount took over distribution.
+</DOC>
+<DOC>
+DreamWorks Pictures | Dreamworks Animation Wiki | Fandom
+DreamWorks began in 1994 as an attempt by media moguls Steven Spielberg,
+Jeffrey Katzenberg and David Geffen (together, SKG) to create a new Hollywood
+studio of which they owned 72%. Currently, DreamWorks operates out of offices
+at Universal Studios.
+</DOC>
+<DOC>
+DreamWorks Pictures | Dreamworks Animation Wiki | Fandom
+* ↑ 6.0 6.1 Comcast's NBCUniversal completes purchase of DreamWorks Animation. Retrieved on 23 August 2016.
+</DOC>
+<DOC>
+DreamWorks Pictures - Wikipedia
+* ^ "Comcast's NBCUniversal completes purchase of DreamWorks Animation". Los Angeles Times. Retrieved 23 August 2016.
+</DOC>
+<DOC>
+DreamWorks Pictures | Dreamworks Animation Wiki | Fandom
+DreamWorks Pictures (also known as DreamWorks SKG or DreamWorks Studios,
+commonly referred to as DreamWorks) is an American film production label of
+Amblin Partners. It was formerly distributing its own and third-party films by
+itself. It has produced or distributed more than ten films with box-office
+grosses of more than $100 million each. As of October 2016, DreamWorks' films
+are marketed and distributed by Universal Pictures.
+</DOC>
+<DOC>
+Universal Pictures | Dreamworks Animation Wiki | Fandom
+Google Tag Manager (noscript)
+End Google Tag Manager (noscript)
+Studio's current logo since 2013.
+Universal Pictures (also known as Universal Studios) is an American film
+studio founded in 1912. It was owned by NBCUniversal, a division of Comcast.
+</DOC>
+<DOC>
+DreamWorks Pictures | Dreamworks Animation Wiki | Fandom
+DreamWorks' animation arm was spun off in 2004 into DreamWorks Animation SKG
+(DWA), which currently owns the DreamWorks trademarks, and as of August 2016
+is a subsidiary of NBCUniversal.[6] Spielberg's company continues to use the
+DreamWorks trademarks under license from Universal Studios.[7][8]
+</DOC>
+<DOC>
+DreamWorks Pictures | Dreamworks Animation Wiki | Fandom
+In August 2016, NBCUniversal, whose subsidiary Universal Pictures entered a
+distribution deal with the live-action DreamWorks studio via Amblin Partners
+in December 2015, acquired DreamWorks Animation for $3.8 billion.[63][6]
+DreamWorks Animation's distribution contract with 20th Century Fox will
+conclude in 2019, after which Universal is expected to handle future releases,
+starting with How to Train Your Dragon 3 .[64][65]
+</DOC>
+<DOC>
+Universal Pictures | Dreamworks Animation Wiki | Fandom
+After Viacom spun off DreamWorks Studios in 2008, Universal was planned to
+resume distributing DreamWorks' movies, but this deal fell through as Disney
+took over the distribution for DreamWorks movies under the Touchstone Pictures
+banner starting in 2011 until 2016. In April 2016, Comcast (which owns
+Universal) purchased DreamWorks Animation for $3.8 Billion. It is therefore
+likely that when the current distribution deal with 20th Century Fox finishes,
+DreamWorks Animation's films will be distributed by Universal. How to Train
+Your Dragon: The Hidden World (2019) was the first DWA film distributed by
+Universal and as a Universal subsidiary.
+</DOC>
+</DOCS>
+QUESTION (asked at 03/10/2024, 23:34:42 PT): is dreamworks animation owned by time warner or universal pictures?<|eot_id|><|start_header_id|>assistant<|end_header_id|>ANSWERABLE:
+############ Query: is dreamworks animation owned by time warner or universal pictures?
+############ answer: universal pictures
+############
+
+
+
+
+Generating Predictions: 10it [00:17,  1.79s/it]
+Evaluating Predictions: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [00:16<00:00,  1.61s/it]
+2025-01-21 18:58:19.621 | INFO     | __main__:evaluate_predictions:173 - {'score': -0.4, 'exact_accuracy': 0.2, 'accuracy': 0.3, 'hallucination': 0.7, 'missing': 0.0, 'n_miss': 0, 'n_correct': 3, 'n_correct_exact': 2, 'total': 10}

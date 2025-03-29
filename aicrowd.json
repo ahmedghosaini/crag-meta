@@ -1,0 +1,10 @@
+{
+    "challenge_id": "meta-kdd-cup-24-crag-retrieval-summarization",
+    
+    "authors": [
+      "mitchelldehaven"
+    ],
+    "gpu": true,
+    "gpu_count": 2,
+    "description": "(optional) description about your awesome agent"
+}

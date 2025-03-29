@@ -1,0 +1,3 @@
+task 1: "meta-kdd-cup-24-crag-retrieval-summarization"
+task 2: "meta-kdd-cup-24-crag-knowledge-graph-and-web-retrieval"
+task 3: 

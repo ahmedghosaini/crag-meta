@@ -1,0 +1,5 @@
+srun --pty --gres=gpu:2 --cpus-per-task=8 --mem=32G bash
+
+ssh -N -L 8888:compute_node_hostname:8888 your_username@your_cluster_address
+ssh -N -L 8888:gpunode103:8888 ahmed.al-ghosaini@neumann.kbs.uni-hannover.de
+ssh -N -L 8888:$(neumann.kbs.uni-hannover.de -f):8888 gpunode103
