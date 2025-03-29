@@ -1,4 +1,5 @@
 *.out
+*.pt
 slurm_outputs/
 # Byte-compiled / optimized / DLL files
 __pycache__/
