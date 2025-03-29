@@ -1,0 +1,369 @@
+Steve Nash | Phoenix Suns | NBA.com
+html
+Navigation ToggleNBA
+
+  * Games
+
+    * Home
+    * Tickets
+
+  * Schedule
+
+    * 2023-24 Season Schedule
+    * League Pass Schedule
+    * Livestream Schedule
+    * NBA Crunchtime
+    * Key Dates
+    * Tickets
+
+  * Watch
+
+    * Featured
+    * NBA TV
+
+  * News
+
+    * Home
+    * Top Stories
+    * Power Rankings
+    * Transactions
+    * All-Star
+    * Draft
+    * Features
+    * History
+    * Writer Archive
+    * More
+
+  * Stats
+
+    * Stats Home
+    * Players
+    * Teams
+    * Leaders
+    * Stats 101
+    * Cume Stats
+    * Lineups Tool
+    * Media Central Game Stats
+    * Draft
+    * Quick Links
+    * Contact Us
+
+  * Standings
+  * Teams
+
+Atlantic
+
+Boston Celtics
+
+Brooklyn Nets
+
+New York Knicks
+
+Philadelphia 76ers
+
+Toronto Raptors
+
+Central
+
+Chicago Bulls
+
+Cleveland Cavaliers
+
+Detroit Pistons
+
+Indiana Pacers
+
+Milwaukee Bucks
+
+Southeast
+
+Atlanta Hawks
+
+Charlotte Hornets
+
+Miami Heat
+
+Orlando Magic
+
+Washington Wizards
+
+Northwest
+
+Denver Nuggets
+
+Minnesota Timberwolves
+
+Oklahoma City Thunder
+
+Portland Trail Blazers
+
+Utah Jazz
+
+Pacific
+
+Golden State Warriors
+
+LA Clippers
+
+Los Angeles Lakers
+
+Phoenix Suns
+
+Sacramento Kings
+
+Southwest
+
+Dallas Mavericks
+
+Houston Rockets
+
+Memphis Grizzlies
+
+New Orleans Pelicans
+
+San Antonio Spurs
+
+  * Players
+
+    * Players Home
+    * Player Stats
+    * Starting Lineups
+    * Transactions
+
+  * NBA Play
+
+    * NBA Play Home
+    * NBA Full Court Guess
+    * NBA Rank
+    * NBA IQ
+    * NBA Player Path
+    * NBA Blast
+    * NBA Hoop Connect
+
+  * Future Starts Now
+  * NBA Fitness
+  * Fantasy
+
+    * Fantasy Home
+    * Fantasy News
+    * NBA Pick'Em
+    * Play Sorare NBA
+    * Yahoo Fantasy Sports
+    * FanDuel DFS
+    * DraftKings DFS
+
+  * NBABet
+
+    * NBABet Home
+    * Authorized Gaming Operators
+
+  *   * League Pass
+  * Store
+
+    * NBA Store
+    * Jerseys
+    * Men
+    * Women
+    * Kids
+    * Custom Shop
+    * Hardwood Classics
+    * Hats
+    * Footwear
+    * Auctions
+    * NBA Game Worn
+    * NYC Store
+    * NBA Photo Store
+
+  * Tickets
+
+    * NBATickets.com
+    * Official Tickets by Ticketmaster
+
+  * Affiliates
+
+    * NBA G League
+    * WNBA
+    * NBA 2K League
+    * Basketball Africa League
+
+  * Sign In
+
+    * Sign in with NBA ID
+
+* * *
+
+    * Hide Scores
+
+    * Help
+
+  * Games
+  * Schedule
+  * Watch
+  * News
+  * Stats
+  * Standings
+  * Teams
+  * Players
+  * NBA Play
+  * Future Starts Now
+  * NBA Fitness
+  * Fantasy
+  * NBABet
+  * League Pass
+  * Store
+  * Tickets
+  * Affiliates
+
+  * Featured
+  * NBA TV
+====================================================================================================
+Steve Nash | Phoenix Suns | NBA.com
+Phoenix Suns | #10 | Guard
+
+Steve
+
+Nash
+
+PPG
+
+14.3
+
+RPG
+
+3.0
+
+APG
+
+8.5
+
+HEIGHT
+
+6'3" (1.91m)
+
+WEIGHT
+
+178lb (81kg)
+
+COUNTRY
+
+Canada
+
+LAST ATTENDED
+
+Santa Clara
+
+BIRTHDATE
+
+February 7, 1974
+
+DRAFT
+
+1996 R1 Pick 15
+
+EXPERIENCE
+
+19 Years
+
+6'3" | 178lb 
+
+DRAFT
+
+1996 R1 Pick 15
+
+BIRTHDATE
+
+February 7, 1974
+
+COUNTRY
+
+Canada
+
+LAST ATTENDED
+
+Santa Clara
+
+EXPERIENCE
+
+19 Years
+
+  * Stats
+
+Career
+
+  * Profile
+  * Splits
+  * Career
+  * Advanced Box Scores
+  * Tracking
+
+Per Mode
+
+TotalsPer GamePer 36 Minutes
+
+Personal HighsStat| Career  
+---|---  
+  
+Values are based on current season type (i.e. Regular Season, Playoffs, All-
+Star)
+
+Awards
+
+No Awards Received As Of Yet
+====================================================================================================
+Steve Nash | Phoenix Suns | NBA.com
+NBA Organization
+
+  * NBA ID
+  * NBA Official
+  * NBA Careers
+  * NBA Fan Code of Conduct
+
+NBA Initiatives
+
+  * NBA Cares
+  * Jr. NBA
+  * NBA Foundation
+  * Social Justice Coalition
+
+Across The League
+
+  * NBA Communications
+  * Lockervision
+  * NBA Transactions
+
+Shop
+
+  * Global Stores
+  * NYC Store
+  * NBA Auctions
+  * NBA Photostore
+
+Subscriptions
+
+  * League Pass
+  * Customer Support
+
+* * *
+
+© 2024 NBA Media Ventures, LLC. All rights reserved.
+
+  * Privacy Policy
+  * EEA/UK Privacy Statement
+  * Brazil Privacy Statement 
+  * Colorado Consumer Privacy Statement
+  * California Consumer Privacy Statement
+  * Terms of Use
+  * Cookie Policy
+  * Accessibility and Closed Captions
+  * Customer Support
+  * Manage Preferences
+
+If you are having difficulty accessing any content on this website, please
+visit our Accessibility page.
+
+NBA.com is part of Warner Media, LLC’s Turner Sports & Entertainment Digital
+Network
+====================================================================================================
+Steve Nash | Phoenix Suns | NBA.com
+{"props":{"pageProps":{"layout":{"header":{"links":[{"id":13,"order":1,"text":"Games","href":"https://www.nba.com/games","type":"custom","icon":"","children":[{"id":818513,"order":2,"text":"Home","href":"https://www.nba.com/games","type":"custom","icon":""},{"id":740992,"order":3,"text":"Tickets","href":"https://nbatickets.nba.com/?cid=nba:tickets:institutional:nbacom:domsites:rd","type":"custom","icon":"ticket"}]},{"id":798905,"order":4,"text":"Schedule","href":"https://www.nba.com/schedule","type":"custom","icon":"","children":[{"id":818512,"order":5,"text":"2023-24 Season Schedule","href":"https://www.nba.com/schedule","type":"custom","icon":""},{"id":818790,"order":6,"text":"League Pass Schedule","href":"https://www.nba.com/schedule?bc=LP\u0026cal=all\u0026region=1","type":"custom","icon":""},{"id":1004851,"order":7,"text":"Livestream Schedule","href":"https://www.nba.com/news/livestream-event-schedule","type":"custom","icon":""},{"id":1201186,"order":8,"text":"NBA Crunchtime","href":"https://www.nba.com/news/nba-crunchtime-how-to-watch-nba-app","type":"custom","icon":""},{"id":818515,"order":9,"text":"Key Dates","href":"https://www.nba.com/news/key-dates","type":"custom","icon":""},{"id":818511,"order":10,"text":"Tickets","href":"https://nbatickets.nba.com/?cid=nba:tickets:institutional:nbacom:domsites:rd","type":"custom","icon":""}]},{"id":15,"order":11,"text":"Watch","href":"https://www.nba.com/watch/featured","type":"custom","icon":"","children":[{"id":2743,"order":12,"text":"Featured","href":"https://www.nba.com/watch/featured","type":"custom","icon":""},{"id":2744,"order":13,"text":"NBA TV","href":"https://www.nba.com/watch/nba-tv","type":"custom","icon":""}]},{"id":16,"order":14,"text":"News","href":"https://www.nba.com/news","type":"custom","icon":"","children":[{"id":402096,"order":15,"text":"Home","href":"https://www.nba.com/news","type":"custom","icon":""},{"id":759147,"order":16,"text":"Top Stories","href":"https://www.nba.com/news/category/top-stories","type":"custom","icon":""},{"id":444757,"order":17,"text":"Power Rankings","href":"https://www.nba.com/news/category/power-rankings","type":"custom","icon":""},{"id":1159602,"order":18,"text":"Transactions","href":"https://www.nba.com/players/transactions","type":"custom","icon":""},{"id":1207619,"order":19,"text":"All-Star","href":"https://www.nba.com/allstar","type":"custom","icon":""},{"id":1159604,"order":20,"text":"Draft","href":"https://www.nba.com/draft/2024","type":"custom","icon":""},{"id":509965,"order":21,"text":"Features","href":"https://www.nba.com/news","type":"custom","icon":"","children":[{"id":488300,"order":22,"text":"Race to the MVP","href":"https://www.nba.com/news/category/kia-race-to-the-mvp-ladder","type":"custom","icon":""},{"id":474558,"order":23,"text":"Rookie Ladder","href":"https://www.nba.com/news/category/kia-rookie-ladder","type":"custom","icon":""},{"id":638824,"order":24,"text":"Trending Topics","href":"https://www.nba.com/news/category/trending-topics","type":"custom","icon":""},{"id":1216393,"order":25,"text":"Wemby Watch","href":"https://www.nba.com/news/category/wemby-watch","type":"custom","icon":""},{"id":812182,"order":26,"text":"NBA Mailbag","href":"https://www.nba.com/news/category/nba-mailbag","type":"custom","icon":""}]},{"id":586427,"order":27,"text":"History","href":"https://www.nba.com/history","type":"custom","icon":""},{"id":38389,"order":28,"text":"Writer Archive","href":"https://www.nba.com/news/writers-archive","type":"custom","icon":""},{"id":736745,"order":29,"text":"More","href":"https://www.nba.com/news","type":"custom","icon":"","children":[{"id":1164269,"order":30,"text":"In-Season Tournament","href":"https://www.nba.com/in-season-tournament/2023","type":"custom","icon":""},{"id":646942,"order":31,"text":"Podcasts","href":"https://www.nba.com/podcasts","type":"custom","icon":""},{"id":657784,"order":32,"text":"Learn The Game","href":"https://www.nba.com/learn-the-game","type":"custom","icon":""},{"id":499780,"order":33,"text":"NBA Pronunciation Guide","href":"https://www.nba.com/news/2023-24-start-of-season-nba-pronunciation-guide","type":"custom","icon":""},{"id":1088109,"order":34,"text":"Awards","href":"https://www.nba.com/awards/2023","type":"custom","icon":""},{"id":576633,"order":35,"text":"NBA Official","href":"https://official.nba.com","type":"custom","icon":""}]}]},{"id":19,"order":36,"text":"Stats","href":"https://www.nba.com/stats","type":"custom","icon":"","children":[{"id":724932,"order":37,"text":"Stats Home","href":"https://www.nba.com/stats","type":"custom","icon":""},{"id":724933,"order":38,"text":"Players","href":"https://www.nba.com/stats/players","type":"custom","icon":"","children":[{"id":724934,"order":39,"text":"Players Home","href":"https://www.nba.com/stats/players","type":"custom","icon":""},{"id":724935,"order":40,"text":"Player Index","href":"https://www.nba.com/players","type":"custom","icon":""},{"id":724936,"order":41,"text":"Traditional Stats","href":"https://www.nba.com/stats/players/traditional","type":"custom","icon":""},{"id":724937,"order":42,"text":"All Time Summary","href":"https://www.nba.com/stats/alltime","type":"custom","icon":""},{"id":724938,"order":43,"text":"Clutch","href":"https://www.nba.com/stats/players/clutch-traditional","type":"custom","icon":""},{"id":724939,"order":44,"text":"Shot Dashboard","href":"https://www.nba.com/stats/players/shots-general","type":"custom","icon":""},{"id":724940,"order":45,"text":"Defensive Dashboard","href":"https://www.nba.com/stats/players/defense-dash-overall","type":"custom","icon":""},{"id":724941,"order":46,"text":"Play Type","href":"https://www.nba.com/stats/players/transition","type":"custom","icon":""},{"id":724942,"order":47,"text":"Tracking","href":"https://www.nba.com/stats/players/catch-shoot","type":"custom","icon":""},{"id":724943,"order":48,"text":"Shooting","href":"https://www.nba.com/stats/players/shooting","type":"custom","icon":""},{"id":724944,"order":49,"text":"Opponent Shooting","href":"https://www.nba.com/stats/players/opponent-shooting","type":"custom","icon":""},{"id":724945,"order":50,"text":"Hustle","href":"https://www.nba.com/stats/players/hustle","type":"custom","icon":""},{"id":724946,"order":51,"text":"Box Outs","href":"https://www.nba.com/stats/players/box-outs","type":"custom","icon":""},{"id":724947,"order":52,"text":"Bios","href":"https://www.nba.com/stats/players/bio","type":"custom","icon":""},{"id":724948,"order":53,"text":"Box Scores","href":"https://www.nba.com/stats/players/boxscores","type":"custom","icon":""},{"id":724949,"order":54,"text":"Advanced Box Scores","href":"https://www.nba.com/stats/players/boxscores-traditional","type":"custom","icon":""}]},{"id":724950,"order":55,"text":"Teams","href":"https://www.nba.com/stats/teams","type":"custom","icon":"","children":[{"id":724951,"order":56,"text":"Teams Home","href":"https://www.nba.com/stats/teams","type":"custom","icon":""},{"id":724952,"order":57,"text":"Traditional Stats","href":"https://www.nba.com/stats/teams/traditional","type":"custom","icon":""},{"id":724953,"order":58,"text":"All Teams","href":"https://www.nba.com/teams","type":"custom","icon":""},{"id":724954,"order":59,"text":"Lineups","href":"https://www.nba.com/stats/lineups/traditional","type":"custom","icon":""},{"id":724955,"order":60,"text":"Clutch","href":"https://www.nba.com/stats/teams/clutch-traditional","type":"custom","icon":""},{"id":724956,"order":61,"text":"Shot Dashboard","href":"https://www.nba.com/stats/teams/shots-general","type":"custom","icon":""},{"id":724957,"order":62,"text":"Defense Dashboard","href":"https://www.nba.com/stats/teams/defense-dash-overall","type":"custom","icon":""},{"id":724958,"order":63,"text":"Play Type","href":"https://www.nba.com/stats/teams/transition","type":"custom","icon":""},{"id":724959,"order":64,"text":"Tracking","href":"https://www.nba.com/stats/teams/catch-shoot","type":"custom","icon":""},{"id":724960,"order":65,"text":"Shooting","href":"https://www.nba.com/stats/teams/shooting","type":"custom","icon":""},{"id":724961,"order":66,"text":"Opponent Shooting","href":"https://www.nba.com/stats/teams/opponent-shooting","type":"custom","icon":""},{"id":724962,"order":67,"text":"Hustle Stats","href":"https://www.nba.com/stats/teams/hustle","type":"custom","icon":""},{"id":724963,"order":68,"text":"Box Outs","href":"https://www.nba.com/stats/teams/box-outs","type":"custom","icon":""},{"id":724964,"order":69,"text":"Box Scores","href":"https://www.nba.com/stats/teams/boxscores","type":"custom","icon":""},{"id":724965,"order":70,"text":"Advanced Box Scores","href":"https://www.nba.com/stats/teams/boxscores-traditional","type":"custom","icon":""}]},{"id":724966,"order":71,"text":"Leaders","href":"https://www.nba.com/stats/leaders","type":"custom","icon":"","children":[{"id":724967,"order":72,"text":"Official Leaders","href":"https://www.nba.com/stats/leaders","type":"custom","icon":""},{"id":724968,"order":73,"text":"All-Time Leaders","href":"https://www.nba.com/stats/alltime-leaders","type":"custom","icon":""},{"id":724969,"order":74,"text":"Hustle Leaders","href":"https://www.nba.com/stats/players/hustle-leaders","type":"custom","icon":""},{"id":724970,"order":75,"text":"Advanced Leaders","href":"https://www.nba.com/stats/players/advanced-leaders","type":"custom","icon":""}]},{"id":724973,"order":76,"text":"Stats 101","href":"https://www.nba.com/stats/help/glossary","type":"custom","icon":"","children":[{"id":724974,"order":77,"text":"Franchise History","href":"https://www.nba.com/stats/history","type":"custom","icon":""},{"id":724975,"order":78,"text":"Statistical Minimums","href":"https://www.nba.com/stats/help/statminimums","type":"custom","icon":""},{"id":724976,"order":79,"text":"Glossary","href":"https://www.nba.com/stats/help/glossary","type":"custom","icon":""},{"id":724977,"order":80,"text":"Transactions","href":"https://www.nba.com/players/transactions","type":"custom","icon":""},{"id":724978,"order":81,"text":"Fantasy News","href":"https://www.nba.com/stats/fantasynews","type":"custom","icon":""},{"id":724979,"order":82,"text":"Articles","href":"https://www.nba.com/stats/featuredarchive","type":"custom","icon":""},{"id":724980,"order":83,"text":"Weekly Stats Archive","href":"https://www.nba.com/stats/spotlightarchive","type":"custom","icon":""},{"id":724981,"order":84,"text":"FAQ","href":"https://www.nba.com/stats/help/faq","type":"custom","icon":""},{"id":724982,"order":85,"text":"Video \u0026 Tracking Status","href":"https://www.nba.com/stats/help/videostatus","type":"custom","icon":""},{"id":724983,"order":86,"text":"Video Rulebook","href":"https://videorulebook.nba.com","type":"custom","icon":""}]},{"id":893164,"order":87,"text":"Cume Stats","href":"https://www.nba.com/stats/cumestats","type":"custom","icon":""},{"id":724994,"order":88,"text":"Lineups Tool","href":"https://www.nba.com/stats/lineups/lineups-tool","type":"custom","icon":""},{"id":724995,"order":89,"text":"Media Central Game Stats","href":"https://www.nba.com/stats/tools/media-central-game-stats","type":"custom","icon":""},{"id":891567,"order":90,"text":"Draft","href":"https://www.nba.com/stats/draft/combine","type":"custom","icon":"","children":[{"id":891559,"order":91,"text":"Draft Combine","href":"https://www.nba.com/stats/draft/combine","type":"custom","icon":""},{"id":891561,"order":92,"text":"Draft History","href":"https://www.nba.com/stats/draft/history","type":"custom","icon":""},{"id":891563,"order":93,"text":"Combine Spot Up Shooting","href":"https://www.nba.com/stats/draft/combine-spot-up","type":"custom","icon":""},{"id":891564,"order":94,"text":"Combine Non-Stationary Shooting","href":"https://www.nba.com/stats/draft/combine-non-stationary","type":"custom","icon":""},{"id":891565,"order":95,"text":"Combine Strength \u0026 Agility","href":"https://www.nba.com/stats/draft/combine-strength-agility","type":"custom","icon":""},{"id":891566,"order":96,"text":"Combine Anthro","href":"https://www.nba.com/stats/draft/combine-anthro","type":"custom","icon":""}]},{"id":724996,"order":97,"text":"Quick Links","href":"https://www.nba.com/stats/quicklinks","type":"custom","icon":""},{"id":724984,"order":98,"text":"Contact Us","href":"https://www.nba.com/stats/help","type":"custom","icon":""}]},{"id":17,"order":99,"text":"Standings","href":"https://www.nba.com/standings","type":"custom","icon":""},{"id":18,"order":100,"text":"Teams","href":"https://www.nba.com/teams","type":"team_menu_module","icon":""},{"id":20,"order":101,"text":"Players","href":"https://www.nba.com/players","type":"custom","icon":"","children":[{"id":444893,"order":102,"text":"Players Home","href":"https://www.nba.com/players","type":"custom","icon":""},{"id":518210,"order":103,"text":"Player Stats","href":"https://www.nba.com/stats/players","type":"custom","icon":""},{"id":444894,"order":104,"text":"Starting Lineups","href":"https://www.nba.com/players/todays-lineups","type":"custom","icon":""},{"id":444895,"order":105,"text":"Transactions","href":"https://www.nba.com/players/transactions","type":"custom","icon":""}]},{"id":1251021,"order":106,"text":"NBA Play","href":"https://play.nba.com","type":"custom","icon":"","children":[{"id":1303162,"order":107,"text":"NBA Play Home","href":"https://play.nba.com","type":"custom","icon":""},{"id":1303163,"order":108,"text":"NBA Full Court Guess","href":"https://play.nba.com/nba-full-court-guess","type":"custom","icon":""},{"id":1303166,"order":109,"text":"NBA Rank","href":"https://play.nba.com/nba-rank","type":"custom","icon":""},{"id":1303165,"order":110,"text":"NBA IQ","href":"https://play.nba.com/nba-iq","type":"custom","icon":""},{"id":1303167,"order":111,"text":"NBA Player Path","href":"https://play.nba.com/nba-player-path","type":"custom","icon":""},{"id":1303168,"order":112,"text":"NBA Blast","href":"https://play.nba.com/nba-blast","type":"custom","icon":""},{"id":1303164,"order":113,"text":"NBA Hoop Connect","href":"https://play.nba.com/nba-hoop-connect","type":"custom","icon":""}]},{"id":1181554,"order":114,"text":"Future Starts Now","href":"https://www.nba.com/future-starts-now","type":"custom","icon":""},{"id":1159599,"order":115,"text":"NBA Fitness","href":"https://www.nba.com/nba-fitness","type":"custom","icon":""},{"id":596590,"order":116,"text":"Fantasy","href":"https://www.nba.com/fantasy","type":"custom","icon":"","children":[{"id":925492,"order":117,"text":"Fantasy Home","href":"https://www.nba.com/fantasy","type":"custom","icon":""},{"id":958320,"order":118,"text":"Fantasy News","href":"https://www.nba.com/stats/fantasynews","type":"custom","icon":""},{"id":929420,"order":119,"text":"NBA Pick'Em","href":"https://picks.nba.com/pickem","type":"custom","icon":""},{"id":1196427,"order":120,"text":"Play Sorare NBA","href":"https://sorare.com/nba?utm_source=partnerships\u0026utm_medium=social\u0026utm_campaign=nba_website_link\u0026utm_term=nba","type":"custom","icon":""},{"id":596593,"order":121,"text":"Yahoo Fantasy Sports","href":"https://ad.doubleclick.net/ddm/trackclk/N360801.1913355YAHOOADMANAGER/B23659549.286628993;dc_trk_aid=460811235;dc_trk_cid=127759645;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$GDPR;gdpr_consent=$GDPR_CONSENT_755","type":"custom","icon":""},{"id":596594,"order":122,"text":"FanDuel DFS","href":"https://www.fanduel.com/contests/nba","type":"custom","icon":""},{"id":772314,"order":123,"text":"DraftKings DFS","href":"https://www.draftkings.com/fantasy-basketball","type":"custom","icon":""}]},{"id":796816,"order":124,"text":"NBABet","href":"https://www.nba.com/nbabet","type":"custom","icon":"","children":[{"id":1282682,"order":125,"text":"NBABet Home","href":"https://www.nba.com/nbabet","type":"custom","icon":""},{"id":596591,"order":126,"text":"Authorized Gaming Operators","href":"https://www.nba.com/fantasy/authorized-gaming-operators","type":"custom","icon":""}]},{"id":22,"order":127,"text":"Spacer","href":"","type":"spacer_menu_module","icon":""},{"id":2748,"order":128,"text":"League Pass","href":"https://www.nba.com/watch/league-pass-stream","type":"custom","icon":""},{"id":2749,"order":129,"text":"Store","href":"https://global.nba.com/store-link-handler","type":"custom","icon":"","children":[{"id":398114,"order":130,"text":"NBA Store","href":"https://global.nba.com/store-link-handler","type":"nba_store_menu_module","icon":""},{"id":44930,"order":131,"text":"Jerseys","href":"https://store.nba.com/jerseys/d-2338402972+z-930066-3838517996?_s=bm-nbacom-hp-jerseys","type":"custom","icon":""},{"id":44931,"order":132,"text":"Men","href":"https://store.nba.com/men/ga-12+z-9834227610-3678762441?_s=bm-nbacom-hp-mens","type":"custom","icon":""},{"id":45021,"order":133,"text":"Women","href":"https://store.nba.com/women/ga-13+z-9992883065-944190737?_s=bm-nbacom-hp-womens","type":"custom","icon":""},{"id":45033,"order":134,"text":"Kids","href":"https://store.nba.com/kids/ga-69+z-851589194-1574389178?_s=bm-nbacom-hp-kids","type":"custom","icon":""},{"id":45034,"order":135,"text":"Custom Shop","href":"https://store.nba.com/custom-shop/c-2642?_s=bm-nbacom-hp-customshop","type":"custom","icon":""},{"id":45035,"order":136,"text":"Hardwood Classics","href":"https://store.nba.com/hardwood-classics/c-48147129+z-9352503-894010671?_s=bm-nbacom-hp-hardwoodclassics","type":"custom","icon":""},{"id":45042,"order":137,"text":"Hats","href":"https://store.nba.com/hats/d-1238400306+z-933233-2567195697?_s=bm-nbacom-hp-hats","type":"custom","icon":""},{"id":45043,"order":138,"text":"Footwear","href":"https://store.nba.com/footwear/d-1294282497+z-957317-2506523281?_s=bm-nbacom-hp-footwear","type":"custom","icon":""},{"id":45044,"order":139,"text":"Auctions","href":"https://auctions.nba.com/iSynApp/showHomePage.action?sid=1101461","type":"custom","icon":""},{"id":45054,"order":140,"text":"NBA Game Worn","href":"https://nbagameworn.nba.com/iSynApp/showHomePage.action?sid=1101561","type":"custom","icon":""},{"id":45055,"order":141,"text":"NYC Store","href":"https://store.nba.com/nyc-store/x-265968+z-785787-1605852944","type":"custom","icon":""},{"id":45056,"order":142,"text":"NBA Photo Store","href":"https://photostore.nba.com","type":"custom","icon":""}]},{"id":419971,"order":143,"text":"Tickets","href":"https://nbatickets.nba.com/?cid=nba:tickets:institutional:nbacom:domsites:rd","type":"custom","icon":"","children":[{"id":760204,"order":144,"text":"NBATickets.com","href":"https://nbatickets.nba.com/?cid=nba:tickets:institutional:nbacom:domsites:rd","type":"custom","icon":""},{"id":760205,"order":145,"text":"Official Tickets by Ticketmaster","href":"https://www.ticketmaster.com/nba?brand=nba\u0026wt.mc_id=NBA_LEAGUE_NBA_TICKET_NAV_DROPDOWN\u0026utm_source=NBA.com\u0026utm_medium=client\u0026utm_campaign=NBA_LEAGUE\u0026utm_content=NBA_TICKET_NAV_DROPDOWN","type":"custom","icon":""}]},{"id":2769,"order":146,"text":"Affiliates","href":"","type":"affiliates_menu_module","icon":"grid"}]},"footer":{"links":[{"id":172557,"order":1,"text":"NBA Organization","href":"https://www.nba.com/#","type":"custom","icon":"","children":[{"id":1170495,"order":2,"text":"NBA ID","href":"https://www.nba.com/id","type":"custom","icon":""},{"id":172581,"order":3,"text":"NBA Official","href":"https://official.nba.com","type":"custom","icon":""},{"id":172624,"order":4,"text":"NBA Careers","href":"https://careers.NBA.com","type":"custom","icon":""},{"id":1191670,"order":5,"text":"NBA Fan Code of Conduct","href":"https://www.nba.com/nba-fan-code-of-conduct","type":"custom","icon":""}]},{"id":169130,"order":6,"text":"NBA Initiatives","href":"http://cares.nba.com","type":"custom","icon":"","children":[{"id":169004,"order":7,"text":"NBA Cares","href":"https://cares.nba.com","type":"custom","icon":""},{"id":169040,"order":8,"text":"Jr. NBA","href":"https://jr.nba.com","type":"custom","icon":""},{"id":169012,"order":9,"text":"NBA Foundation","href":"https://nbafoundation.nba.com","type":"custom","icon":""},{"id":169069,"order":10,"text":"Social Justice Coalition","href":"https://coalition.nba.com","type":"custom","icon":""}]},{"id":172432,"order":11,"text":"Across The League","href":"https://www.nba.com/#","type":"custom","icon":"","children":[{"id":172437,"order":12,"text":"NBA Communications","href":"https://pr.nba.com","type":"custom","icon":""},{"id":172458,"order":13,"text":"Lockervision","href":"https://lockervision.nba.com","type":"custom","icon":""},{"id":172518,"order":14,"text":"NBA Transactions","href":"https://www.nba.com/players/transactions","type":"custom","icon":""}]},{"id":172789,"order":15,"text":"Shop","href":"https://www.nba.com/#","type":"custom","icon":"","children":[{"id":172819,"order":16,"text":"Global Stores","href":"https://global.nba.com/store-link-handler","type":"custom","icon":""},{"id":172847,"order":17,"text":"NYC Store","href":"https://store.nba.com","type":"custom","icon":""},{"id":172853,"order":18,"text":"NBA Auctions","href":"https://auctions.nba.com","type":"custom","icon":""},{"id":172877,"order":19,"text":"NBA Photostore","href":"https://photostore.nba.com","type":"custom","icon":""}]},{"id":173154,"order":20,"text":"Subscriptions","href":"https://www.nba.com/#","type":"custom","icon":"","children":[{"id":173212,"order":21,"text":"League Pass","href":"https://www.nba.com/watch/league-pass-stream","type":"custom","icon":""},{"id":602730,"order":22,"text":"Customer Support","href":"https://support.watch.nba.com/hc/en-us","type":"custom","icon":""}]}],"legal":[{"id":275565,"order":1,"text":"Privacy Policy","href":"https://www.nba.com/privacy-policy","type":"post_type","icon":"","post_id":196023,"post_type":"page"},{"id":1176297,"order":2,"text":"EEA/UK Privacy Statement","href":"https://www.nba.com/eeaukprivacy","type":"post_type","icon":"","post_id":1175961,"post_type":"page"},{"id":1176299,"order":3,"text":"Brazil Privacy Statement ","href":"https://www.nba.com/brazilprivacy","type":"post_type","icon":"","post_id":1173150,"post_type":"page"},{"id":1176300,"order":4,"text":"Colorado Consumer Privacy Statement","href":"https://www.nba.com/coprivacy","type":"post_type","icon":"","post_id":1175925,"post_type":"page"},{"id":1176301,"order":5,"text":"California Consumer Privacy Statement","href":"https://www.nba.com/caprivacy","type":"post_type","icon":"","post_id":1175910,"post_type":"page"},{"id":197372,"order":6,"text":"Terms of Use","href":"https://www.nba.com/termsofuse","type":"post_type","icon":"","post_id":196044,"post_type":"page"},{"id":1176298,"order":7,"text":"Cookie Policy","href":"https://www.nba.com/cookiepolicy","type":"post_type","icon":"","post_id":1175965,"post_type":"page"},{"id":398806,"order":8,"text":"Accessibility and Closed Captions","href":"https://nba.com/accessibility","type":"custom","icon":""},{"id":397401,"order":9,"text":"Customer Support","href":"https://support.watch.nba.com/hc/en-us","type":"custom","icon":""}],"social":[{"id":171872,"order":1,"text":"Facebook","href":"https://facebook.com/nba","type":"custom","icon":"facebook"},{"id":171839,"order":2,"text":"Instagram","href":"https://instagram.com/nba/?hl=en","type":"custom","icon":"instagram"},{"id":171823,"order":3,"text":"Snapchat","href":"https://snapchat.com/add/nba","type":"custom","icon":"snapchat"},{"id":398112,"order":4,"text":"TikTok","href":"https://www.tiktok.com/@nba","type":"custom","icon":"tiktok"},{"id":172189,"order":5,"text":"Twitter","href":"https://twitter.com/NBA","type":"custom","icon":"twitter"},{"id":171306,"order":6,"text":"Youtube","href":"https://youtube.com/user/NBA","type":"custom","icon":"youtube"},{"id":492006,"order":7,"text":"Twitch","href":"https://www.twitch.tv/nba","type":"custom","icon":"twitch"}]},"subNav":false,"adPlacements":{"exists":true,"adUnit":"player","singleton":"https://i.cdn.turner.com/ads/nba3/singles/nba_global_mktg.min.js","registry":"https://i.cdn.turner.com/ads/nba3/nba_players_stats.min.js","target":null,"slots":[{"placementId":"player_ad_b_1","banner":"ad_bnr_atf_01","enabled":true},{"placementId":"player_ad_r_1","banner":"ad_ns_atf_01","enabled":true}]},"analytics":{"exists":true,"page":{"pageInfo":{"pageName":"nba:players:player:profile","siteSection":"nba:players","subSection1":"nba:players:player","subSection2":"nba:players:player:profile","primaryCategory":"players","secondaryCategory":"profile"},"content":{"playerName":"Steve Nash","playerId":959,"teamName":"PHX","teamId":1610612756}}}},"player":{"info":{"PERSON_ID":959,"FIRST_NAME":"Steve","LAST_NAME":"Nash","DISPLAY_FIRST_LAST":"Steve Nash","DISPLAY_LAST_COMMA_FIRST":"Nash, Steve","DISPLAY_FI_LAST":"S. Nash","PLAYER_SLUG":"steve-nash","BIRTHDATE":"1974-02-07T00:00:00","SCHOOL":"Santa Clara","COUNTRY":"Canada","LAST_AFFILIATION":"Santa Clara/Canada","HEIGHT":"6-3","WEIGHT":"178","SEASON_EXP":19,"JERSEY":"10","POSITION":"Guard","ROSTERSTATUS":"Inactive","GAMES_PLAYED_CURRENT_SEASON_FLAG":"N","TEAM_ID":1610612756,"TEAM_NAME":"Suns","TEAM_ABBREVIATION":"PHX","TEAM_CODE":"suns","TEAM_CITY":"Phoenix","PLAYERCODE":"steve_nash","FROM_YEAR":1996,"TO_YEAR":2013,"DLEAGUE_FLAG":"N","NBA_FLAG":"Y","GAMES_PLAYED_FLAG":"Y","DRAFT_YEAR":"1996","DRAFT_ROUND":"1","DRAFT_NUMBER":"15","GREATEST_75_FLAG":"Y","SEASONS":["21996","41996","11997","21997","41997","11998","21998","11999","21999","12000","22000","42000","12001","22001","32001","42001","12002","22002","32002","42002","12003","22003","42003","12004","22004","32004","42004","12005","22005","32005","42005","12006","22006","42006","12007","22007","32007","42007","12008","22008","12009","22009","32009","42009","12010","22010","12011","22011","32011","12012","22012","42012","12013","22013","12014"]},"stats":{"PLAYER_ID":959,"PLAYER_NAME":"Steve Nash","TimeFrame":"career","PTS":14.3,"AST":8.5,"REB":3,"ALL_STAR_APPEARANCES":7},"social":[{"ACCOUNTTYPE":"Facebook","WEBSITE_LINK":"https://www.facebook.com/suns"},{"ACCOUNTTYPE":"Instagram","WEBSITE_LINK":"https://instagram.com/suns"},{"ACCOUNTTYPE":"Twitter","WEBSITE_LINK":"https://twitter.com/Suns"}],"teamLinks":{"facebook":"https://www.facebook.com/suns","instagram":"https://www.instagram.com/suns/?hl=en","roster":"https://www.nba.com/suns/roster","store":"https://shop.suns.com/","tickets":"https://www.nba.com/suns/tickets","twitter":"https://twitter.com/Suns","team":"https://www.nba.com/suns/"},"roster":[{"TeamID":1610612756,"SEASON":"2023","LeagueID":"00","PLAYER":"Royce O'Neale","NICKNAME":"Royce","PLAYER_SLUG":"royce-oneale","NUM":"00","POSITION":"F","HEIGHT":"6-6","WEIGHT":"226","BIRTH_DATE":"JUN 05, 1993","AGE":30,"EXP":"6","SCHOOL":"Baylor","PLAYER_ID":1626220,"HOW_ACQUIRED":"Traded from BKN on 02/08/24"},{"TeamID":1610612756,"SEASON":"2023","LeagueID":"00","PLAYER":"Devin Booker","NICKNAME":"Devin","PLAYER_SLUG":"devin-booker","NUM":"1","POSITION":"G","HEIGHT":"6-6","WEIGHT":"206","BIRTH_DATE":"OCT 30, 1996","AGE":27,"EXP":"8","SCHOOL":"Kentucky","PLAYER_ID":1626164,"HOW_ACQUIRED":"#13 Pick in 2015 Draft"},{"TeamID":1610612756,"SEASON":"2023","LeagueID":"00","PLAYER":"Josh Okogie","NICKNAME":"Josh","PLAYER_SLUG":"josh-okogie","NUM":"2","POSITION":"G","HEIGHT":"6-4","WEIGHT":"213","BIRTH_DATE":"SEP 01, 1998","AGE":25,"EXP":"5","SCHOOL":"Georgia Tech","PLAYER_ID":1629006,"HOW_ACQUIRED":"Signed on 07/02/22"},{"TeamID":1610612756,"SEASON":"2023","LeagueID":"00","PLAYER":"Bradley Beal","NICKNAME":"Bradley","PLAYER_SLUG":"bradley-beal","NUM":"3","POSITION":"G","HEIGHT":"6-4","WEIGHT":"207","BIRTH_DATE":"JUN 28, 1993","AGE":30,"EXP":"11","SCHOOL":"Florida","PLAYER_ID":203078,"HOW_ACQUIRED":"Traded from WAS on 06/23/23"},{"TeamID":1610612756,"SEASON":"2023","LeagueID":"00","PLAYER":"Grayson Allen","NICKNAME":"Grayson","PLAYER_SLUG":"grayson-allen","NUM":"8","POSITION":"G","HEIGHT":"6-4","WEIGHT":"198","BIRTH_DATE":"OCT 08, 1995","AGE":28,"EXP":"5","SCHOOL":"Duke","PLAYER_ID":1628960,"HOW_ACQUIRED":"Traded from MIL on 09/27/23"},{"TeamID":1610612756,"SEASON":"2023","LeagueID":"00","PLAYER":"Damion Lee","NICKNAME":"Damion","PLAYER_SLUG":"damion-lee","NUM":"10","POSITION":"G-F","HEIGHT":"6-6","WEIGHT":"210","BIRTH_DATE":"OCT 21, 1992","AGE":31,"EXP":"6","SCHOOL":"Drexel","PLAYER_ID":1627814,"HOW_ACQUIRED":"Signed on 07/01/22"},{"TeamID":1610612756,"SEASON":"2023","LeagueID":"00","PLAYER":"Bol Bol","NICKNAME":"Bol","PLAYER_SLUG":"bol-bol","NUM":"11","POSITION":"C-F","HEIGHT":"7-3","WEIGHT":"220","BIRTH_DATE":"NOV 16, 1999","AGE":24,"EXP":"4","SCHOOL":"Oregon","PLAYER_ID":1629626,"HOW_ACQUIRED":"Signed on 07/18/23"},{"TeamID":1610612756,"SEASON":"2023","LeagueID":"00","PLAYER":"Ish Wainright","NICKNAME":"Ish","PLAYER_SLUG":"ish-wainright","NUM":"12","POSITION":"F","HEIGHT":"6-5","WEIGHT":"250","BIRTH_DATE":"SEP 12, 1994","AGE":29,"EXP":"2","SCHOOL":"Baylor","PLAYER_ID":1630688,"HOW_ACQUIRED":"Signed on 03/04/24"},{"TeamID":1610612756,"SEASON":"2023","LeagueID":"00","PLAYER":"Drew Eubanks","NICKNAME":"Drew","PLAYER_SLUG":"drew-eubanks","NUM":"14","POSITION":"F-C","HEIGHT":"6-10","WEIGHT":"245","BIRTH_DATE":"FEB 01, 1997","AGE":27,"EXP":"5","SCHOOL":"Oregon State","PLAYER_ID":1629234,"HOW_ACQUIRED":"Signed on 07/02/23"},{"TeamID":1610612756,"SEASON":"2023","LeagueID":"00","PLAYER":"Jusuf Nurkic","NICKNAME":"Jusuf","PLAYER_SLUG":"jusuf-nurkic","NUM":"20","POSITION":"C","HEIGHT":"7-0","WEIGHT":"290","BIRTH_DATE":"AUG 23, 1994","AGE":29,"EXP":"9","SCHOOL":"Cedevita","PLAYER_ID":203994,"HOW_ACQUIRED":"Traded from POR on 09/27/23"},{"TeamID":1610612756,"SEASON":"2023","LeagueID":"00","PLAYER":"David Roddy","NICKNAME":"David","PLAYER_SLUG":"david-roddy","NUM":"21","POSITION":"F","HEIGHT":"6-4","WEIGHT":"255","BIRTH_DATE":"MAR 27, 2001","AGE":22,"EXP":"1","SCHOOL":"Colorado State","PLAYER_ID":1631223,"HOW_ACQUIRED":"Traded from MEM on 02/08/24"},{"TeamID":1610612756,"SEASON":"2023","LeagueID":"00","PLAYER":"Eric Gordon","NICKNAME":"Eric","PLAYER_SLUG":"eric-gordon","NUM":"23","POSITION":"G","HEIGHT":"6-3","WEIGHT":"215","BIRTH_DATE":"DEC 25, 1988","AGE":35,"EXP":"15","SCHOOL":"Indiana","PLAYER_ID":201569,"HOW_ACQUIRED":"Signed on 07/06/23"},{"TeamID":1610612756,"SEASON":"2023","LeagueID":"00","PLAYER":"Nassir Little","NICKNAME":"Nassir","PLAYER_SLUG":"nassir-little","NUM":"25","POSITION":"F-G","HEIGHT":"6-6","WEIGHT":"220","BIRTH_DATE":"FEB 11, 2000","AGE":24,"EXP":"4","SCHOOL":"North Carolina","PLAYER_ID":1629642,"HOW_ACQUIRED":"Traded from POR on 09/27/23"},{"TeamID":1610612756,"SEASON":"2023","LeagueID":"00","PLAYER":"Udoka Azubuike","NICKNAME":"Udoka","PLAYER_SLUG":"udoka-azubuike","NUM":"27","POSITION":"C-F","HEIGHT":"6-11","WEIGHT":"270","BIRTH_DATE":"SEP 17, 1999","AGE":24,"EXP":"3","SCHOOL":"Kansas","PLAYER_ID":1628962,"HOW_ACQUIRED":"Signed on 08/08/23"},{"TeamID":1610612756,"SEASON":"2023","LeagueID":"00","PLAYER":"Thaddeus Young","NICKNAME":"Thaddeus","PLAYER_SLUG":"thaddeus-young","NUM":"30","POSITION":"F","HEIGHT":"6-8","WEIGHT":"225","BIRTH_DATE":"JUN 21, 1988","AGE":35,"EXP":"16","SCHOOL":"Georgia Tech","PLAYER_ID":201152,"HOW_ACQUIRED":"Signed on 02/20/24"},{"TeamID":1610612756,"SEASON":"2023","LeagueID":"00","PLAYER":"Kevin Durant","NICKNAME":"Kevin","PLAYER_SLUG":"kevin-durant","NUM":"35","POSITION":"F","HEIGHT":"6-11","WEIGHT":"240","BIRTH_DATE":"SEP 29, 1988","AGE":35,"EXP":"15","SCHOOL":"Texas","PLAYER_ID":201142,"HOW_ACQUIRED":"Traded from BKN on 02/09/23"},{"TeamID":1610612756,"SEASON":"2023","LeagueID":"00","PLAYER":"Saben Lee","NICKNAME":"Saben","PLAYER_SLUG":"saben-lee","NUM":"38","POSITION":"G","HEIGHT":"6-2","WEIGHT":"183","BIRTH_DATE":"JUN 23, 1999","AGE":24,"EXP":"3","SCHOOL":"Vanderbilt","PLAYER_ID":1630240,"HOW_ACQUIRED":"Signed on 01/11/23"}],"cmsBio":"","rotowireBio":"","gameLogs":[{"SEASON_ID":"12014","Player_ID":959,"Game_ID":"0011400042","GAME_DATE":"OCT 12, 2014","MATCHUP":"LAL vs. GSW","WL":"L","MIN":12,"FGM":0,"FGA":5,"FG_PCT":0,"FG3M":0,"FG3A":0,"FG3_PCT":0,"FTM":3,"FTA":3,"FT_PCT":1,"OREB":0,"DREB":2,"REB":2,"AST":1,"STL":1,"BLK":0,"TOV":1,"PF":1,"PTS":3,"PLUS_MINUS":-26,"VIDEO_AVAILABLE":0,"GAME_STATUS":3},{"SEASON_ID":"12014","Player_ID":959,"Game_ID":"0011400005","GAME_DATE":"OCT 06, 2014","MATCHUP":"LAL vs. DEN","WL":"W","MIN":20,"FGM":4,"FGA":8,"FG_PCT":0.5,"FG3M":1,"FG3A":1,"FG3_PCT":1,"FTM":2,"FTA":3,"FT_PCT":0.667,"OREB":0,"DREB":1,"REB":1,"AST":5,"STL":0,"BLK":0,"TOV":2,"PF":2,"PTS":11,"PLUS_MINUS":3,"VIDEO_AVAILABLE":2,"GAME_STATUS":3},{"SEASON_ID":"22013","Player_ID":959,"Game_ID":"0021301161","GAME_DATE":"APR 08, 2014","MATCHUP":"LAL vs. HOU","WL":"L","MIN":13,"FGM":1,"FGA":2,"FG_PCT":0.5,"FG3M":1,"FG3A":1,"FG3_PCT":1,"FTM":0,"FTA":0,"FT_PCT":0,"OREB":1,"DREB":2,"REB":3,"AST":5,"STL":0,"BLK":0,"TOV":1,"PF":0,"PTS":3,"PLUS_MINUS":2,"VIDEO_AVAILABLE":1,"GAME_STATUS":3},{"SEASON_ID":"22013","Player_ID":959,"Game_ID":"0021301142","GAME_DATE":"APR 04, 2014","MATCHUP":"LAL vs. DAL","WL":"L","MIN":19,"FGM":2,"FGA":3,"FG_PCT":0.667,"FG3M":0,"FG3A":0,"FG3_PCT":0,"FTM":0,"FTA":0,"FT_PCT":0,"OREB":0,"DREB":1,"REB":1,"AST":7,"STL":0,"BLK":0,"TOV":4,"PF":0,"PTS":4,"PLUS_MINUS":-7,"VIDEO_AVAILABLE":1,"GAME_STATUS":3},{"SEASON_ID":"22013","Player_ID":959,"Game_ID":"0021301113","GAME_DATE":"APR 01, 2014","MATCHUP":"LAL vs. POR","WL":"L","MIN":22,"FGM":2,"FGA":5,"FG_PCT":0.4,"FG3M":0,"FG3A":0,"FG3_PCT":0,"FTM":6,"FTA":6,"FT_PCT":1,"OREB":0,"DREB":4,"REB":4,"AST":10,"STL":0,"BLK":1,"TOV":1,"PF":1,"PTS":10,"PLUS_MINUS":8,"VIDEO_AVAILABLE":1,"GAME_STATUS":3}],"awards":[{"name":"All-NBA","count":7},{"name":"Hall of Fame Inductee","count":1},{"name":"J. Walter Kennedy Citizenship","count":1},{"name":"NBA Most Valuable Player","count":2},{"name":"NBA Player of the Month","count":3},{"name":"NBA Player of the Week","count":8},{"name":"NBA Sporting News Most Valuable Player of the Year","count":1},{"name":"Olympic Appearance","count":1}],"latestVideos":[],"latestNews":[],"coach":{"TEAM_ID":1610612756,"SEASON":"2023","COACH_ID":2345,"FIRST_NAME":"Frank","LAST_NAME":"Vogel","COACH_NAME":"Frank Vogel","IS_ASSISTANT":1,"COACH_TYPE":"Head Coach","SORT_SEQUENCE":null,"SUB_SORT_SEQUENCE":1}},"section":"stats","region":"united-states"},"xRegionMap":"united-states","isIndex":false,"cmsSiteSettings":{"games":{"banner":{"cta":{}},"showPromoBanner":false,"disableSingleGamesPurchaseWeb":true,"disableGamesPlayerMultiview":false,"gamesPageDate":"2024-02-22","overrideGamePageDate":false,"leaguePassArchiveRestrictionsInternational":2012,"leaguePassArchiveRestrictionsDomestic":2012,"ctaBanner":{"title":"NBA League Pass","description":"Activate NBA League Pass to watch games live and on demand.","cta":{"label":"Subscribe","link":"gametime://packages"}}},"global":{"isOffSeason":false,"hideTicketLinks":false,"hideScoreStrip":false,"mobileWatchLink":"https://app.link.nba.com/games","winProbabilityLink":"https://join.pointsbet.com/nba-win-probability/","winProbabilityLogoLink":"https://join.pointsbet.com/nba-win-probability/?utm_source=Unbounce_NBA\u0026utm_medium=NBA\u0026utm_campaign=Risk_Free_2_200_NBA_Win_Probability\u0026utm_term=Unbounce\u0026utm_content=NBA\u0026promo=NBAWIN","isPromoNight":false,"promoNightType":"none","removeBallyBranding":false},"seasonConfigs":[],"standings":{"showBracket":"no-bracket"},"homepage":{"draft":{"seasonYear":2023,"enableDraftTracker":false}},"schedule":{"month":""}},"clientConfigSettings":{"client":"Web","features":{"interstitialOffers":[{"offerType":"nbaIdPromo","conditions":{"date":{"start":"2022-11-07T05:00:00Z","end":"2022-11-08T16:00:00Z"}}}],"calendar":{"keyDates":"https://www.nba.com/webview/key-dates","defaultDateOverrideStart":"2023-08-21T11:00:00","defaultDateOverrideEnd":"2023-10-05T11:00:00"},"localAccess":{"enableSingleGamePurchase":false,"teams":{"1610612746":{"teamName":"clippers","rsnLogo":"https://ballysports.app.link/clippers-courtvision"},"1610612747":{"teamName":"lakers"},"1610612756":{"teamName":"suns"},"1610612762":{"teamName":"jazz"}}},"promoNights":{"isMemberNight":false,"isNikeNight":false}},"constants":{"leagues":{"nba":{"name":"NBA","LeagueID":"00","gameBasePath":"/game"},"wnba":{"name":"WNBA","LeagueID":"10","gameBasePath":"https://stats.wnba.com/game"},"californiaSummerLeague":{"name":"California Classic Summer League","LeagueID":"13","gameBasePath":"/game"},"summerLeague":{"name":"Summer League","LeagueID":"14","gameBasePath":"/game"},"nba2kSummerLeague":{"name":"NBA 2K24 Summer League","LeagueID":"15","gameBasePath":"/game"},"saltLakeSummerLeague":{"name":"Salt Lake City Summer League","LeagueID":"16","gameBasePath":"/game"},"gLeague":{"name":"G LEAGUE","LeagueID":"20","gameBasePath":"https://stats.gleague.nba.com/game"}},"season":{"stats":{"site":{"name":"site","Season":"2022-23","SeasonType":"Regular Season","YearTo":2022,"TypeId":2,"YearFrom":1996,"flags":[]},"rosters":{"name":"rosters","Season":"2023-24","SeasonType":"Regular Season","YearTo":2023,"TypeId":2,"YearFrom":1951,"flags":[]},"leaguePass":{"name":"leaguePass","Season":"2022-23","SeasonType":"Regular Season","YearTo":2022,"TypeId":2,"YearFrom":1995,"flags":[]},"splits":{"name":"splits","Season":"2022-23","SeasonType":"Regular Season","YearTo":2022,"TypeId":2,"YearFrom":1996,"flags":[]},"similarity":{"name":"similarity","Season":"2022-23","SeasonType":"Regular Season","YearTo":2022,"TypeId":2,"YearFrom":2017,"flags":[]},"boxouts":{"name":"boxout","Season":"2022-23","SeasonType":"Regular Season","YearTo":2022,"TypeId":2,"YearFrom":2017,"flags":[]},"hustle":{"name":"hustle","Season":"2022-23","SeasonType":"Regular Season","YearTo":2022,"TypeId":2,"YearFrom":2015,"flags":[]},"tracking":{"name":"tracking","Season":"2022-23","SeasonType":"Regular Season","YearTo":2022,"TypeId":2,"YearFrom":2013,"flags":[]},"gamelogs":{"name":"gamelogs","Season":"2022-23","SeasonType":"Regular Season","YearTo":2022,"TypeId":2,"YearFrom":1946,"flags":[]},"matchups":{"name":"matchups","Season":"2022-23","SeasonType":"Regular Season","YearTo":2022,"TypeId":2,"YearFrom":2018,"flags":[]},"playtype":{"name":"playtype","Season":"2022-23","SeasonType":"Regular Season","YearTo":2022,"TypeId":2,"YearFrom":2015,"flags":[]},"fantasy":{"name":"fantasy","Season":"2022-23","SeasonType":"Regular Season","YearTo":2022,"TypeId":2,"YearFrom":2014,"flags":[]},"defense":{"name":"defense","Season":"2022-23","SeasonType":"Regular Season","YearTo":2022,"TypeId":2,"YearFrom":2015,"flags":[]},"leaders":{"name":"leaders","Season":"2022-23","SeasonType":"Regular Season","YearTo":2022,"TypeId":2,"YearFrom":1946,"flags":[]},"videos":{"name":"videos","Season":"2022-23","SeasonType":"Regular Season","YearTo":2022,"TypeId":2,"YearFrom":2015,"flags":[]},"shotcharts":{"name":"shotcharts","Season":"2022-23","SeasonType":"Regular Season","YearTo":2022,"TypeId":2,"YearFrom":2015,"flags":[]},"bios":{"name":"bios","Season":"2022-23","SeasonType":"Regular Season","YearTo":2022,"TypeId":2,"YearFrom":1996,"flags":[]},"clutch":{"name":"clutch","Season":"2022-23","SeasonType":"Regular Season","YearTo":2022,"TypeId":2,"YearFrom":1996,"flags":[]},"shooting":{"name":"shooting","Season":"2022-23","SeasonType":"Regular Season","YearTo":2022,"TypeId":2,"YearFrom":1996,"flags":[]},"boxscores":{"name":"boxscores","Season":"2022-23","SeasonType":"Regular Season","YearTo":2022,"TypeId":2,"YearFrom":1996,"flags":[]},"alltime":{"name":"alltime","Season":"All Time","SeasonType":"Regular Season"},"leagueAverages":{"name":"leagueAverages","Season":"2021-22","SeasonType":"Regular Season","YearTo":2022,"TypeId":2,"YearFrom":2015,"flags":[]},"draftCombineShooting":{"name":"draftCombineShooting","Season":"2023-24","SeasonType":"Regular Season","YearTo":2023,"TypeId":2,"YearFrom":2014,"Without":["2021-22","2020-21"]},"draftCombineAnthroAgility":{"name":"draftCombineAnthroAgility","Season":"2023-24","SeasonType":"Regular Season","YearTo":2023,"TypeId":2,"YearFrom":2000}},"pages":{"draft":{"name":"draft","Season":"2022-23","SeasonType":"Regular Season","YearTo":2022,"TypeId":2,"YearFrom":1947,"flags":[]},"summerLeague":{"name":"summerLeague","Season":"2022-23","SeasonType":"Regular Season","YearTo":2022,"TypeId":2,"YearFrom":2020,"flags":[]},"freeAgents":{"name":"freeAgents","Season":"2022-23","SeasonType":"Regular Season","YearTo":2023,"TypeId":2,"YearFrom":1947,"flags":[]},"schedule":{"name":"schedule","Season":"2022-23","SeasonType":"Regular Season","YearTo":2022,"TypeId":2,"YearFrom":1945,"flags":[["hidePrev",true,"Y"],["initialMonth",false,"10"]]},"standings":{"name":"standings","Season":"2022-23","SeasonType":"Regular Season","YearTo":2022,"TypeId":2,"YearFrom":1970,"flags":[]},"istStandings":{"name":"istStandings","Season":"2023-24","SeasonType":"Regular Season","YearTo":2023,"TypeId":2,"YearFrom":2023,"flags":[]},"scores":{"name":"scores","Season":"2022-23","SeasonType":"Regular Season","YearTo":2022,"TypeId":2,"flags":[["gameDate",false,"2021-10-17"]]},"stats":{"name":"stats","Season":"2022-23","SeasonType":"Regular Season","YearTo":2022,"TypeId":2,"flags":{"isHustleMenuActive":true,"showHomepageLinks":true,"showDailyLeaders":true,"showDraftBoard":false,"showSummerLeague":false,"showAlerts":true,"showAssistTracker":true,"allstarVoting":false,"allstarLinks":false}},"lineups":{"name":"lineups","Season":"2022-23","SeasonType":"Regular Season","YearTo":2022,"TypeId":2,"YearFrom":2007,"flags":[]},"playoffs":{"name":"playoffs","Season":"2021-22","SeasonType":"Playoffs","YearTo":2021,"TypeId":4,"YearFrom":2014,"flags":[]},"finals":{"name":"finals","Season":"2022-23","SeasonType":"Regular Season","YearTo":2021,"TypeId":2,"YearFrom":2017,"flags":[]},"preseason":{"name":"preseason","Season":"2023-24","SeasonType":"Pre Season","YearTo":2023,"TypeId":1,"YearFrom":1996,"flags":[]},"wnba":{"name":"wnba","Season":"2023","SeasonType":"Regular Season","YearTo":2023},"draftcombine":{"name":"draftCombine","Season":"2023-24","SeasonType":"Regular Season","YearTo":2022,"TypeId":2,"YearFrom":1947,"flags":{"isLive":true,"activeGames":["0922300001","0922300002","0922300003","0922300004"]}}}},"purchasePrompts":{"noEntitlements":"Your plan does not include access to League Pass. Please Subscribe below.","tveNoTeamPass":"Your Team Pass subscription does not include access to this game. Please contact your TV Provider to upgrade or Subscribe to League Pass below.","tveNoNbaTv":"Your plan does not include access to NBATV. Please contact your TV Provider to upgrade or Subscribe below.","tveNoLp":"Your plan does not include access to League Pass. Please contact your TV Provider to upgrade or Subscribe to League Pass below.","nbaNoClipperVision":"You've signed in successfully, but are unable to watch with your current subscription. Subscribe to ClipperVision to watch this game.","nbaNoLp":"You've signed in successfully, but are unable to watch without an upgraded NBA League Pass subscription.","noTeamVision":"You've signed in successfully, but are unable to watch with your current subscription. Subscribe to [vision] to watch this game.","noLocalAccess":"You’ve signed in successfully, but are unable to watch without a [package_name] subscription."}},"pages":{"statsGameBooks":{"breadcrumbs":[{"name":"Gamebooks","href":"/stats/gamebooks"}]}},"featureFlags":{"enableRecaptcha":true,"disableNewRelic":false,"disableAdFuel":false},"disableEmailConsentSkus":["LALVISION","LALVISIONMONTHLY","LALSINGLEGAME"],"validRedirectUrls":["ai.nba.com","gamecenter.nba.com","play.nba.com","bracketchallenge.nba.com","bracketchallenge-qa.nba.com","bracketchallenge-dev.nba.com","play-dev.nba.com","play-qa.nba.com"],"restrictedCountryCodes":["BY","RU"],"currentSeason":"2023-24","videoAds":{"web":{"live":[{"lpOverride":{"1610612746":"clippersLocalMarket","1610612747":"lakersLiveLocalMarket","regexForLocalOverride":"VISION-IN-MARKET","cTypeForLocalOverride":"exclusiveLocalMarket"},"nbaTVLinear":{"csid":"nba.com_live_nba-tv_web","pre-roll-caid":"nba-tv_live_default_asset","mid-roll-caid":"173335512","afid":"173335512","prof":"48804:nba_web_video"},"lpLive":{"csid":"nba.com_league_pass_desktop_main_nopreroll","pre-roll-caid":"nba_league_pass_video_080713","mid-roll-caid":"0","afid":"131605628","prof":"48804:nba_web_video"},"liveNonGameEvents":{"csid":"nba.com_press_conference_live_2","pre-roll-caid":"nba-video/live/live2","mid-roll-caid":"nba-video/live/live2","afid":"157986297","prof":"48804:nba_web_video"},"totM":{"csid":"nba.com_live_dt_nba_tntot_mosaic","pre-roll-caid":[{"r":"nba_tntot_regular","asfri":"nba_tntot_fri","assat":"nba_tntot_sat","assun":"nba_tntot_sun","playin":"nba_tntot_playin","plffrd1":"tntot_playoffs_rd1","plffrd2":"tntot_playoffs_rd2","plffconffnl":"tntot_playoffs_conffinals"}],"mid-roll-caid":[{"r":"SIGNAL","asfri":"SIGNAL","assat":"SIGNAL","assun":"SIGNAL","playin":"SIGNAL","plffrd1":"SIGNAL","plffrd2":"SIGNAL","plffconffnl":"SIGNAL"}],"afid":"115841515","prof":"48804:nba_web_video"},"totBBL":{"csid":"nba.com_live_dt_nba_tntot_actioncam3","pre-roll-caid":[{"r":"nba_tntot_regular","asfri":"nba_tntot_fri","assat":"nba_tntot_sat","assun":"nba_tntot_sun","playin":"nba_tntot_playin","plffrd1":"tntot_playoffs_rd1","plffrd2":"tntot_playoffs_rd2","plffconffnl":"tntot_playoffs_conffinals"}],"mid-roll-caid":[{"r":"SIGNAL","asfri":"SIGNAL","assat":"SIGNAL","assun":"SIGNAL","playin":"SIGNAL","plffrd1":"SIGNAL","plffrd2":"SIGNAL","plffconffnl":"SIGNAL"}],"afid":"115841515","prof":"48804:nba_web_video"},"totBBR":{"csid":"nba.com_live_dt_nba_tntot_backboardcam4","pre-roll-caid":[{"r":"nba_tntot_regular","asfri":"nba_tntot_fri","assat":"nba_tntot_sat","assun":"nba_tntot_sun","playin":"nba_tntot_playin","plffrd1":"tntot_playoffs_rd1","plffrd2":"tntot_playoffs_rd2","plffconffnl":"tntot_playoffs_conffinals"}],"mid-roll-caid":[{"r":"SIGNAL","asfri":"SIGNAL","assat":"SIGNAL","assun":"SIGNAL","playin":"SIGNAL","plffrd1":"SIGNAL","plffrd2":"SIGNAL","plffconffnl":"SIGNAL"}],"afid":"115841515","prof":"48804:nba_web_video"},"totPCA":{"csid":"nba.com_live_dt_nba_tntot_playercam1","pre-roll-caid":[{"r":"nba_tntot_regular","asfri":"nba_tntot_fri","assat":"nba_tntot_sat","assun":"nba_tntot_sun","playin":"nba_tntot_playin","plffrd1":"tntot_playoffs_rd1","plffrd2":"tntot_playoffs_rd2","plffconffnl":"tntot_playoffs_conffinals"}],"mid-roll-caid":[{"r":"SIGNAL","asfri":"SIGNAL","assat":"SIGNAL","assun":"SIGNAL","playin":"SIGNAL","plffrd1":"SIGNAL","plffrd2":"SIGNAL","plffconffnl":"SIGNAL"}],"afid":"115841515","prof":"48804:nba_web_video"},"totPCH":{"csid":"nba.com_live_dt_nba_tntot_playercam2","pre-roll-caid":[{"r":"nba_tntot_regular","asfri":"nba_tntot_fri","assat":"nba_tntot_sat","assun":"nba_tntot_sun","playin":"nba_tntot_playin","plffrd1":"tntot_playoffs_rd1","plffrd2":"tntot_playoffs_rd2","plffconffnl":"tntot_playoffs_conffinals"}],"mid-roll-caid":[{"r":"SIGNAL","asfri":"SIGNAL","assat":"SIGNAL","assun":"SIGNAL","playin":"SIGNAL","plffrd1":"SIGNAL","plffrd2":"SIGNAL","plffconffnl":"SIGNAL"}],"afid":"115841515","prof":"48804:nba_web_video"},"nbaLive":{"csid":"nba.com_live_nba-tv_web","pre-roll-caid":"nba-tv_live_default_asset","mid-roll-caid":"173335512","afid":"173335512","prof":"48804:nba_web_video"},"livePresserCommissioner":{"csid":"nba.com_press_conference_live_1","pre-roll-caid":"nba-video/live/live1","mid-roll-caid":"nba-video/live/live1","afid":"157986297","prof":"48804:nba_web_video"},"livePresser":{"csid":"nba.com_press_conference_live_2","pre-roll-caid":"nba-video/live/live2","mid-roll-caid":"nba-video/live/live2","afid":"157986297","prof":"48804:nba_web_video"},"proAm":{"csid":"nba.com_live_alt_streams_web","pre-roll-caid":"nba_com_live_proAm","mid-roll-caid":"1242","afid":"377673256","prof":"48804:nba_web_video"},"draftLive":{"csid":"nba.com_live_alt_streams_web","pre-roll-caid":"nba_live_draftLive","mid-roll-caid":"1243","afid":"377674361","prof":"48804:nba_web_video"},"inSeasonTournamentLive":{"csid":"nba.com_live_alt_streams_web","pre-roll-caid":"nba_live_InSeasonTournamentLive","mid-roll-caid":"1244","afid":"377674361","prof":"48804:nba_web_video"},"summerLeagueLive":{"csid":"nba.com_live_alt_streams_web","pre-roll-caid":"nba_live_summerLeagueLive","mid-roll-caid":"1245","afid":"377674361","prof":"48804:nba_web_video"},"crunchtimeLive":{"csid":"nba.com_live_alt_streams_web","pre-roll-caid":"nba_live_crunchTime","mid-roll-caid":"1246","afid":"377674361","prof":"48804:nba_web_video"},"allStarLive":{"csid":"nba.com_live_alt_streams_web","pre-roll-caid":"nba_live_allStarLive","mid-roll-caid":"1247","afid":"377674361","prof":"48804:nba_web_video"},"defaultLiveGame":{"csid":"nba.com_live_alt_streams_web","pre-roll-caid":"nba_live_defaultGame","mid-roll-caid":"1248","afid":"377674361","prof":"48804:nba_web_video"},"defaultLiveEvent":{"csid":"nba.com_live_alt_streams_web","pre-roll-caid":"nba_live_defaultEvent","mid-roll-caid":"1249","afid":"377674361","prof":"48804:nba_web_video"},"altStreamGame":{"csid":"nba.com_live_alt_streams_web","pre-roll-caid":"nba_live_altStreamGame","mid-roll-caid":"1250","afid":"377674361","prof":"48804:nba_web_video"},"altStreamEvent":{"csid":"nba.com_live_alt_streams_web","pre-roll-caid":"nba_live_altStreamEvent","mid-roll-caid":"1251","afid":"377674361","prof":"48804:nba_web_video"},"exclusiveLocalMarket":{"csid":"exclusiveLocalMarket","pre-roll-caid":"nba_live_exclusiveLocalMarket_preroll","mid-roll-caid":"nba_live_exclusiveLocalMarket_midroll","afid":"0","prof":"nba_gam_exclusiveLocalMarket_test"},"clippersLocalMarket":{"csid":"exclusiveLocalMarket","pre-roll-caid":"nba_live_exclusiveLocalMarket_preroll","mid-roll-caid":"nba_live_exclusiveLocalMarket_midroll","afid":"0","prof":"nba_gam_exclusiveLocalMarket_test"},"lakersLiveLocalMarket":{"csid":"nba_ovp_pc_live","pre-roll-caid":"NBA_3PP","mid-roll-caid":"NBA_3PP","afid":"262726938","prof":"376521:nba_charter_video"}}],"vod":[{"lpNonLiveGameVideo":{"csid":"nba.com_league_pass_desktop_main","pre-roll-caid":"nba_league_pass_video_080713","mid-roll-caid":"0","afid":"131605628","prof":"48804:nba_web_video"},"lpNonLiveVideo":{"csid":"nba.com_league_pass_desktop_main","pre-roll-caid":"vod_external_id","mid-roll-caid":"0","afid":"172446858","prof":"48804:nba_web_video"},"nbaTvVod":{"csid":"nba.com_vod_desktop_nba-tv_web","pre-roll-caid":"vod_external_id","mid-roll-caid":"0","afid":"172446858","prof":"48804:nba_web_video"},"gameRecaps":{"csid":"nba.com_vod_desktop_video_default","pre-roll-caid":"vod_external_id","mid-roll-caid":"0","afid":"172446858","prof":"48804:nba_web_video"},"gameHighlights":{"csid":"nba.com_vod_desktop_video_default","pre-roll-caid":"vod_external_id","mid-roll-caid":"0","afid":"172446858","prof":"48804:nba_web_video"},"vodClips":{"csid":"nba.com_vod_desktop_video_default","pre-roll-caid":"vod_external_id","mid-roll-caid":"0","afid":"172446858","prof":"48804:nba_web_video"},"allstarHub":{"csid":"nba.com_vod_desktop_allstar","pre-roll-caid":"vod_external_id","mid-roll-caid":"0","afid":"172446858","prof":"48804:nba_web_video"},"lakersVodLocalMarket":{"csid":"nba_ovp_pc_live","pre-roll-caid":"NBA_3PP","mid-roll-caid":"NBA_3PP","afid":"262726938","prof":"376521:nba_charter_video"}}]},"mobileWeb":{"live":[{"lpOverride":{"1610612746":"clippersLocalMarket","1610612747":"lakersLiveLocalMarket","regexForLocalOverride":"VISION-IN-MARKET","cTypeForLocalOverride":"exclusiveLocalMarket"},"nbaTVLinear":{"csid":"nba.com_live_nba-tv_web","pre-roll-caid":"nba-tv_live_default_asset","mid-roll-caid":"173335512","afid":"157730808","prof":"48804:nba_web_video"},"lpLive":{"csid":"nba.com_league_pass_desktop_main_nopreroll","pre-roll-caid":"nba_league_pass_video_080713","mid-roll-caid":"0","afid":"260026386","prof":"48804:nba_web_video"},"liveNonGameEvents":{"csid":"nba.com_press_conference_live_2","pre-roll-caid":"nba-video/live/live2","mid-roll-caid":"nba-video/live/live2","afid":"157986297","prof":"48804:nba_web_video"},"totM":{"csid":"nba.com_live_dt_nba_tntot_mosaic","pre-roll-caid":[{"r":"nba_tntot_regular","asfri":"nba_tntot_fri","assat":"nba_tntot_sat","assun":"nba_tntot_sun","playin":"nba_tntot_playin","plffrd1":"tntot_playoffs_rd1","plffrd2":"tntot_playoffs_rd2","plffconffnl":"tntot_playoffs_conffinals"}],"mid-roll-caid":[{"r":"SIGNAL","asfri":"SIGNAL","assat":"SIGNAL","assun":"SIGNAL","playin":"SIGNAL","plffrd1":"SIGNAL","plffrd2":"SIGNAL","plffconffnl":"SIGNAL"}],"afid":"262301632","prof":"48804:nba_web_video"},"totBBL":{"csid":"nba.com_live_dt_nba_tntot_actioncam3","pre-roll-caid":[{"r":"nba_tntot_regular","asfri":"nba_tntot_fri","assat":"nba_tntot_sat","assun":"nba_tntot_sun","playin":"nba_tntot_playin","plffrd1":"tntot_playoffs_rd1","plffrd2":"tntot_playoffs_rd2","plffconffnl":"tntot_playoffs_conffinals"}],"mid-roll-caid":[{"r":"SIGNAL","asfri":"SIGNAL","assat":"SIGNAL","assun":"SIGNAL","playin":"SIGNAL","plffrd1":"SIGNAL","plffrd2":"SIGNAL","plffconffnl":"SIGNAL"}],"afid":"262301632","prof":"48804:nba_web_video"},"totBBR":{"csid":"nba.com_live_dt_nba_tntot_backboardcam4","pre-roll-caid":[{"r":"nba_tntot_regular","asfri":"nba_tntot_fri","assat":"nba_tntot_sat","assun":"nba_tntot_sun","playin":"nba_tntot_playin","plffrd1":"tntot_playoffs_rd1","plffrd2":"tntot_playoffs_rd2","plffconffnl":"tntot_playoffs_conffinals"}],"mid-roll-caid":[{"r":"SIGNAL","asfri":"SIGNAL","assat":"SIGNAL","assun":"SIGNAL","playin":"SIGNAL","plffrd1":"SIGNAL","plffrd2":"SIGNAL","plffconffnl":"SIGNAL"}],"afid":"262301632","prof":"48804:nba_web_video"},"totPCA":{"csid":"nba.com_live_dt_nba_tntot_playercam1","pre-roll-caid":[{"r":"nba_tntot_regular","asfri":"nba_tntot_fri","assat":"nba_tntot_sat","assun":"nba_tntot_sun","playin":"nba_tntot_playin","plffrd1":"tntot_playoffs_rd1","plffrd2":"tntot_playoffs_rd2","plffconffnl":"tntot_playoffs_conffinals"}],"mid-roll-caid":[{"r":"SIGNAL","asfri":"SIGNAL","assat":"SIGNAL","assun":"SIGNAL","playin":"SIGNAL","plffrd1":"SIGNAL","plffrd2":"SIGNAL","plffconffnl":"SIGNAL"}],"afid":"262301632","prof":"48804:nba_web_video"},"totPCH":{"csid":"nba.com_live_dt_nba_tntot_playercam2","pre-roll-caid":[{"r":"nba_tntot_regular","asfri":"nba_tntot_fri","assat":"nba_tntot_sat","assun":"nba_tntot_sun","playin":"nba_tntot_playin","plffrd1":"tntot_playoffs_rd1","plffrd2":"tntot_playoffs_rd2","plffconffnl":"tntot_playoffs_conffinals"}],"mid-roll-caid":[{"r":"SIGNAL","asfri":"SIGNAL","assat":"SIGNAL","assun":"SIGNAL","playin":"SIGNAL","plffrd1":"SIGNAL","plffrd2":"SIGNAL","plffconffnl":"SIGNAL"}],"afid":"262301632","prof":"48804:nba_web_video"},"nbaLive":{"csid":"nba.com_live_nba-tv_web","pre-roll-caid":"nba-tv_live_default_asset","mid-roll-caid":"173335512","afid":"157730808","prof":"48804:nba_web_video"},"livePresserCommissioner":{"csid":"nba.com_press_conference_live_1","pre-roll-caid":"nba-video/live/live1","mid-roll-caid":"nba-video/live/live1","afid":"157986297","prof":"48804:nba_web_video"},"livePresser":{"csid":"nba.com_press_conference_live_2","pre-roll-caid":"nba-video/live/live2","mid-roll-caid":"nba-video/live/live2","afid":"157986297","prof":"48804:nba_web_video"},"proAm":{"csid":"nba.com_live_alt_streams_mobile_web","pre-roll-caid":"nba_com_live_proAm","mid-roll-caid":"1242","afid":"377673256","prof":"48804:nba_web_video"},"draftLive":{"csid":"nba.com_live_alt_streams_mobile_web","pre-roll-caid":"nba_live_draftLive","mid-roll-caid":"1243","afid":"377674361","prof":"48804:nba_web_video"},"inSeasonTournamentLive":{"csid":"nba.com_live_alt_streams_mobile_web","pre-roll-caid":"nba_live_InSeasonTournamentLive","mid-roll-caid":"1244","afid":"377674361","prof":"48804:nba_web_video"},"summerLeagueLive":{"csid":"nba.com_live_alt_streams_mobile_web","pre-roll-caid":"nba_live_summerLeagueLive","mid-roll-caid":"1245","afid":"377674361","prof":"48804:nba_web_video"},"crunchtimeLive":{"csid":"nba.com_live_alt_streams_mobile_web","pre-roll-caid":"nba_live_crunchTime","mid-roll-caid":"1246","afid":"377674361","prof":"48804:nba_web_video"},"allStarLive":{"csid":"nba.com_live_alt_streams_mobile_web","pre-roll-caid":"nba_live_allStarLive","mid-roll-caid":"1247","afid":"377674361","prof":"48804:nba_web_video"},"defaultLiveGame":{"csid":"nba.com_live_alt_streams_mobile_web","pre-roll-caid":"nba_live_defaultGame","mid-roll-caid":"1248","afid":"377674361","prof":"48804:nba_web_video"},"defaultLiveEvent":{"csid":"nba.com_live_alt_streams_mobile_web","pre-roll-caid":"nba_live_defaultEvent","mid-roll-caid":"1249","afid":"377674361","prof":"48804:nba_web_video"},"altStreamGame":{"csid":"nba.com_live_alt_streams_mobile_web","pre-roll-caid":"nba_live_altStreamGame","mid-roll-caid":"1250","afid":"377674361","prof":"48804:nba_web_video"},"altStreamEvent":{"csid":"nba.com_live_alt_streams_mobile_web","pre-roll-caid":"nba_live_altStreamEvent","mid-roll-caid":"1251","afid":"377674361","prof":"48804:nba_web_video"},"exclusiveLocalMarket":{"csid":"exclusiveLocalMarket","pre-roll-caid":"nba_live_exclusiveLocalMarket_preroll","mid-roll-caid":"nba_live_exclusiveLocalMarket_midroll","afid":"0","prof":"nba_gam_exclusiveLocalMarket_test"},"clippersLocalMarket":{"csid":"exclusiveLocalMarket","pre-roll-caid":"nba_live_exclusiveLocalMarket_preroll","mid-roll-caid":"nba_live_exclusiveLocalMarket_midroll","afid":"0","prof":"nba_gam_exclusiveLocalMarket_test"},"lakersLiveLocalMarket":{"csid":"nba_ovp_pc_live","pre-roll-caid":"NBA_3PP","mid-roll-caid":"NBA_3PP","afid":"262726938","prof":"376521:nba_charter_video"}}],"vod":[{"lpNonLiveGameVideo":{"csid":"nba.com_league_pass_desktop_main","pre-roll-caid":"nba_league_pass_video_080713","mid-roll-caid":"0","afid":"260026386","prof":"48804:nba_web_video"},"lpNonLiveVideo":{"csid":"nba.com_league_pass_desktop_main","pre-roll-caid":"vod_external_id","mid-roll-caid":"0","afid":"255397740","prof":"48804:nba_web_video"},"nbaTvVod":{"csid":"nba.com_vod_desktop_nba-tv_web","pre-roll-caid":"vod_external_id","mid-roll-caid":"0","afid":"255397740","prof":"48804:nba_web_video"},"gameRecaps":{"csid":"nba.com_mobile_web_videos_main","pre-roll-caid":"vod_external_id","mid-roll-caid":"0","afid":"255397740","prof":"48804:nba_web_video"},"gameHighlights":{"csid":"nba.com_mobile_web_videos_main","pre-roll-caid":"vod_external_id","mid-roll-caid":"0","afid":"255397740","prof":"48804:nba_web_video"},"vodClips":{"csid":"nba.com_mobile_web_videos_main","pre-roll-caid":"vod_external_id","mid-roll-caid":"0","afid":"255397740","prof":"48804:nba_web_video"},"lakersVodLocalMarket":{"csid":"nba_ovp_pc_live","pre-roll-caid":"NBA_3PP","mid-roll-caid":"NBA_3PP","afid":"262726938","prof":"376521:nba_charter_video"}}]}}},"isWebView":false,"isSummerLeague":false,"isTypeOfPackagesPage":false,"hasAdsAndAnalytics":true,"akamaiHeaders":{"xAkamaiEdgescape":"georegion=288,country_code=US,region_code=VA,city=SANDSTON,dma=556,msa=6760,areacode=804,county=HENRICO,fips=51087,lat=37.5055,long=-77.2587,timezone=EST,zip=23150,continent=NA,throughput=low,bw=1,asnum=32934,location_id=0","xRegionMap":"united-states","xLpPackageCountry":"US"},"__N_SSP":true},"page":"/stats/player/[...props]","query":{"props":["959","career"]},"buildId":"ccwfooCRVzJG4AE9BfFBo","isFallback":false,"dynamicIds":[72245],"gssp":true,"appGip":true,"locale":"en","locales":["en","es","fr","ja","pt"],"defaultLocale":"en","scriptLoader":[]}
+====================================================================================================
